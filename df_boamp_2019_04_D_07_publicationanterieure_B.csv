@@ -1,0 +1,958 @@
+BOAMP_AVIS_NUM,D_07_01_Publicationanterieure_Oui,D_07_02_Publicationanterieure_Referencepublication,D_07_02_01_Publicationanterieure_Referencepublication_Publicationpapier,D_07_02_02_Publicationanterieure_Referencepublication_Publicationelectronique,D_07_02_03_Publicationanterieure_Referencepublication_Publicationjoue,D_07_02_03_01_Publicationanterieure_Referencepublication_Publicationjoue_Nature,D_07_02_03_01_01_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avispreinformation,D_07_02_03_01_02_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisperiodique,D_07_02_03_01_03_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avissystemqualif,D_07_02_03_01_04_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisprofilacheteur,D_07_02_03_01_05_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisexantevolontaire,D_07_02_03_01_06_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avismarche,D_07_02_03_01_07_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avissad,D_07_02_03_01_08_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisconcours,D_07_02_03_01_09_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisattribution,D_07_02_03_01_10_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Autrespublcationsanterieures,D_07_02_03_02_Publicationanterieure_Referencepublication_Publicationjoue_Annee,D_07_02_03_03_Publicationanterieure_Referencepublication_Publicationjoue_Numparution,D_07_02_03_04_Publicationanterieure_Referencepublication_Publicationjoue_Numannonce,D_07_02_03_05_Publicationanterieure_Referencepublication_Publicationjoue_Datepublication,D_07_03_Publicationanterieure_Non
+19-58133,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,153.0,350615.0,,False
+19-58134,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,105.0,240312.0,,False
+19-58145,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28222.0,,False
+19-58158,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,217.0,496622.0,,False
+19-58162,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,233.0,532558.0,2018-12-03 23:00:00,False
+19-58163,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,139.0,318609.0,,False
+19-58168,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2017.0,143.0,293984.0,2017-07-27 22:00:00,False
+19-58172,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,95.0,215400.0,2018-05-18 22:00:00,False
+19-58174,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,207.0,471912.0,2018-10-25 22:00:00,False
+19-58185,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,23.0,50574.0,,False
+19-58187,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,567867.0,,False
+19-58190,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,144.0,328860.0,,False
+19-58200,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,221.0,505295.0,,False
+19-58238,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477886.0,,False
+19-58239,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,215.0,492207.0,,False
+19-58240,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,499479.0,,False
+19-58242,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558751.0,,False
+19-58243,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,5.0,7177.0,,False
+19-58283,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,139.0,317239.0,,False
+19-58284,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554661.0,,False
+19-58291,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,245.0,560553.0,,False
+19-58293,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,44.0,100599.0,,False
+19-58303,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,512255.0,,False
+19-58307,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,26.0,56286.0,2018-02-06 23:00:00,False
+19-58312,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,194.0,439319.0,2018-10-08 22:00:00,False
+19-58314,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,142.0,324080.0,,False
+19-58322,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,498057.0,,False
+19-58342,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,249.0,575834.0,2018-12-27 23:00:00,False
+19-58347,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,485526.0,,False
+19-58356,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,114.0,258882.0,,False
+19-58370,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575846.0,,False
+19-58374,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2014.0,158.0,284707.0,,False
+19-58391,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,117.0,265359.0,,False
+19-58396,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477716.0,,False
+19-58408,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,511839.0,,False
+19-58453,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,532069.0,,False
+19-58506,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564669.0,,False
+19-58526,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,480168.0,,False
+19-58581,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,133.0,303306.0,,False
+19-58602,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,132.0,299809.0,2018-07-11 22:00:00,False
+19-58608,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,197.0,445607.0,2018-10-11 22:00:00,False
+19-58616,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,65.0,144024.0,2018-04-03 22:00:00,False
+19-58619,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,135.0,308525.0,,False
+19-58642,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,191.0,431383.0,2018-10-03 22:00:00,False
+19-58657,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,201.0,456796.0,,False
+19-58658,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,172.0,390768.0,2018-09-06 22:00:00,False
+19-58659,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,203.0,461282.0,,False
+19-58665,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,29.0,65060.0,,False
+19-58667,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,476832.0,,False
+19-58668,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,133.0,302948.0,2018-07-12 22:00:00,False
+19-58679,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,242.0,552470.0,,False
+19-58683,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,223.0,510553.0,,False
+19-58724,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,44.0,96126.0,,False
+19-58731,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,51.0,,False
+19-58738,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,66.0,154052.0,,False
+19-58744,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,24.0,50218.0,,False
+19-58751,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,242.0,552863.0,2018-12-14 23:00:00,False
+19-58755,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,190.0,429350.0,,False
+19-58758,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,140.0,320700.0,,False
+19-58761,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,3.0,3362.0,,False
+19-58793,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,230.0,525916.0,2018-11-28 23:00:00,False
+19-58802,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,195.0,440812.0,,False
+19-58841,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,238.0,543356.0,,False
+19-58842,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,13.0,25809.0,,False
+19-58843,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,29007.0,,False
+19-58863,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,36.0,78230.0,,False
+19-58874,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564573.0,,False
+19-58875,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,128.0,292512.0,2018-07-05 22:00:00,False
+19-58878,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,15520.0,,False
+19-58902,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,534392.0,,False
+19-58903,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,41.0,90746.0,,False
+19-58906,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,243.0,505840.0,,False
+19-58909,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,547035.0,,False
+19-58925,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,39.0,88217.0,,False
+19-58929,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,186.0,420345.0,,False
+19-58941,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,26.0,58028.0,2019-02-05 23:00:00,False
+19-58966,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,177.0,401364.0,,False
+19-58967,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,179.0,406530.0,,False
+19-58970,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563609.0,,False
+19-58971,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563571.0,,False
+19-58974,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,151.0,347290.0,,False
+19-58976,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,29042.0,,False
+19-58981,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,36.0,81361.0,,False
+19-58987,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,222.0,507481.0,,False
+19-58991,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,499593.0,,False
+19-58996,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,247.0,517849.0,,False
+19-58999,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,470350.0,,False
+19-59001,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,24278.0,,False
+19-59009,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,186.0,420399.0,,False
+19-59047,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,129.0,293528.0,,False
+19-59056,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,246.0,564954.0,2018-12-20 23:00:00,False
+19-59081,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,20588.0,,False
+19-59082,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30140.0,,False
+19-59084,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,174.0,395420.0,,False
+19-59087,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,17.0,36018.0,,False
+19-59092,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,226.0,516512.0,2018-11-22 23:00:00,False
+19-59102,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,177.0,401414.0,,False
+19-59127,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,7.0,10715.0,2019-01-09 23:00:00,False
+19-59134,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,118.0,268433.0,,False
+19-59145,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,21.0,45972.0,2019-01-29 23:00:00,False
+19-59175,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,100.0,228013.0,,False
+19-59176,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,103.0,236016.0,,False
+19-59184,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,197.0,444927.0,,False
+19-59204,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,534382.0,,False
+19-59210,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,247.0,517869.0,,False
+19-59214,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,8874.0,,False
+19-59220,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,535093.0,,False
+19-59253,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-59297,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,237.0,541537.0,2018-12-07 23:00:00,False
+19-59302,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,148.0,338951.0,2018-08-02 22:00:00,False
+19-59320,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,290.0,,False
+19-59324,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,22.0,47480.0,,False
+19-59325,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,45381.0,,False
+19-59328,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,28.0,62498.0,,False
+19-59339,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,531645.0,,False
+19-59352,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,248.0,573916.0,2018-12-25 23:00:00,False
+19-59358,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,152.0,349227.0,,False
+19-59362,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,247.0,569447.0,2018-12-21 23:00:00,False
+19-59372,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,203.0,461665.0,,False
+19-59397,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,3.0,2866.0,2019-01-03 23:00:00,False
+19-59423,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,184.0,415876.0,,False
+19-59459,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,236.0,538925.0,,False
+19-59480,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,569856.0,,False
+19-59510,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,220.0,503116.0,,False
+19-59538,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,189.0,426154.0,,False
+19-59541,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,58013.0,,False
+19-59569,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,2.0,1369.0,,False
+19-59720,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558780.0,,False
+19-59726,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,214.0,489880.0,2018-11-06 23:00:00,False
+19-59736,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,247.0,566877.0,2018-12-21 23:00:00,False
+19-59750,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,212.0,485502.0,2018-11-02 23:00:00,False
+19-59756,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,247.0,569430.0,2018-12-21 23:00:00,False
+19-59767,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,25.0,55628.0,2019-02-04 23:00:00,False
+19-59774,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,48.0,109590.0,,False
+19-59779,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,51.0,112621.0,,False
+19-59786,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,466197.0,,False
+19-59787,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,225.0,513980.0,,False
+19-59795,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,225.0,513913.0,2018-11-21 23:00:00,False
+19-59797,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,562649.0,,False
+19-59800,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,11.0,20380.0,,False
+19-59804,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,8855.0,,False
+19-59809,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,470370.0,,False
+19-59810,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,23.0,50546.0,,False
+19-59814,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,468036.0,,False
+19-59815,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,209.0,477937.0,2018-10-29 23:00:00,False
+19-59821,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,125.0,284037.0,2018-07-02 22:00:00,False
+19-59823,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,24.0,52233.0,2019-02-03 23:00:00,False
+19-59834,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,198.0,448376.0,,False
+19-59840,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,531959.0,,False
+19-59843,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,190.0,428778.0,2018-10-02 22:00:00,False
+19-59858,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,9.0,15869.0,2019-01-13 23:00:00,False
+19-59867,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,198.0,448487.0,2018-10-12 22:00:00,False
+19-59875,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,36.0,82221.0,2019-02-19 23:00:00,False
+19-59892,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,158.0,362994.0,2018-08-17 22:00:00,False
+19-59895,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,208.0,474875.0,,False
+19-59899,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,140.0,321759.0,2018-07-23 22:00:00,False
+19-59903,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,146.0,334411.0,,False
+19-59904,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,203.0,461155.0,,False
+19-59906,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,5.0,6351.0,2019-01-07 23:00:00,False
+19-59917,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,231.0,528013.0,,False
+19-59925,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,16.0,32216.0,2018-01-23 23:00:00,False
+19-59928,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,16691.0,,False
+19-59929,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,535057.0,,False
+19-59932,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,114.0,259645.0,2018-06-15 22:00:00,False
+19-59941,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,230.0,525830.0,,False
+19-59952,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,20.0,42552.0,2019-01-28 23:00:00,False
+19-59968,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,25.0,54926.0,,False
+19-59989,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,467501.0,,False
+19-60000,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2017.0,186.0,380452.0,2017-09-27 22:00:00,False
+19-60028,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,18268.0,,False
+19-60038,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,8.0,13739.0,2019-01-10 23:00:00,False
+19-60051,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,499620.0,,False
+19-60053,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,549909.0,,False
+19-60054,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,8.0,14465.0,,False
+19-60055,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,8.0,14468.0,,False
+19-60059,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,228.0,521046.0,,False
+19-60065,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,190.0,429813.0,,False
+19-60074,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,189.0,427352.0,,False
+19-60082,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,65.0,151905.0,2019-04-01 22:00:00,False
+19-60098,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,169.0,384309.0,2018-09-03 22:00:00,False
+19-60103,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,213.0,487685.0,2018-11-05 23:00:00,False
+19-60106,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,231.0,526913.0,,False
+19-60113,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,1.0,745.0,2019-01-01 23:00:00,False
+19-60114,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572871.0,,False
+19-60119,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,153.0,350478.0,2018-08-09 22:00:00,False
+19-60128,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,239.0,546143.0,2018-12-11 23:00:00,False
+19-60129,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,546111.0,,False
+19-60152,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563505.0,,False
+19-60153,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,16679.0,,False
+19-60164,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,245.0,560148.0,,False
+19-60167,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,28.0,62609.0,,False
+19-60178,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,24126.0,,False
+19-60182,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,211.0,482480.0,2018-11-01 23:00:00,False
+19-60184,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554664.0,,False
+19-60185,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,138.0,314764.0,,False
+19-60195,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575904.0,,False
+19-60196,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,30.0,67400.0,,False
+19-60197,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,161.0,368426.0,,False
+19-60226,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,194.0,439341.0,,False
+19-60234,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-60248,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,60.0,133416.0,2018-03-26 22:00:00,False
+19-60251,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,479562.0,,False
+19-60252,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,484241.0,,False
+19-60254,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,42537.0,,False
+19-60282,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,60.0,139231.0,,False
+19-60289,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,33.0,74456.0,,False
+19-60297,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,237.0,540940.0,2018-12-07 23:00:00,False
+19-60301,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,7.0,11087.0,2019-01-09 23:00:00,False
+19-60305,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,567815.0,,False
+19-60316,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-60319,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,238.0,493378.0,,False
+19-60323,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,499565.0,,False
+19-60351,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,226.0,516638.0,2018-11-22 23:00:00,False
+19-60356,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,42.0,94313.0,,False
+19-60381,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57941.0,,False
+19-60399,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,28.0,62567.0,,False
+19-60410,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465450.0,,False
+19-60411,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,569130.0,,False
+19-60414,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2017.0,104.0,206920.0,2017-05-31 22:00:00,False
+19-60415,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,131.0,298769.0,,False
+19-60418,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,True,2016.0,91.0,162591.0,2016-05-11 22:00:00,False
+19-60452,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,222.0,508126.0,2018-11-16 23:00:00,False
+19-60576,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,10.0,19190.0,2019-01-14 23:00:00,False
+19-60595,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,27.0,59754.0,,False
+19-60598,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,179.0,404525.0,2018-09-17 22:00:00,False
+19-60609,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,195.0,440869.0,,False
+19-60616,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-60621,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-60639,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,467541.0,,False
+19-60641,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,498466.0,,False
+19-60642,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,150.0,343586.0,2018-08-06 22:00:00,False
+19-60643,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,480197.0,,False
+19-60648,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38595.0,,False
+19-60653,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33803.0,,False
+19-60656,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,23.0,49688.0,2019-01-31 23:00:00,False
+19-60662,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554695.0,,False
+19-60671,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,4.0,5088.0,,False
+19-60672,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,218.0,499605.0,2018-11-12 23:00:00,False
+19-60674,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,34.0,76294.0,,False
+19-60679,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572338.0,,False
+19-60683,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,40.0,89727.0,2019-02-25 23:00:00,False
+19-60684,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,233.0,532624.0,2018-12-03 23:00:00,False
+19-60698,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,498638.0,,False
+19-60699,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38562.0,,False
+19-60706,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,208.0,474229.0,,False
+19-60714,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572799.0,,False
+19-60718,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,188.0,424855.0,,False
+19-60720,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,484510.0,,False
+19-60721,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,225.0,514940.0,2018-11-21 23:00:00,False
+19-60733,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,193.0,435862.0,2018-10-05 22:00:00,False
+19-60734,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,197.0,444572.0,2018-10-11 22:00:00,False
+19-60740,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-60748,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,238.0,543363.0,2018-12-10 23:00:00,False
+19-60773,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,248.0,573884.0,2018-12-25 23:00:00,False
+19-60774,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,217.0,495789.0,,False
+19-60776,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,58085.0,,False
+19-60782,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,246.0,,False
+19-60796,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,468040.0,,False
+19-60802,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,21708.0,,False
+19-60807,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,8.0,14414.0,,False
+19-60809,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,17.0,35457.0,2019-01-23 23:00:00,False
+19-60810,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-60815,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,202.0,458546.0,,False
+19-60817,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,13.0,26610.0,,False
+19-60829,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,479557.0,,False
+19-60835,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,250.0,577030.0,,False
+19-60837,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,161.0,367924.0,2018-08-22 22:00:00,False
+19-60861,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,55.0,127281.0,2019-03-18 23:00:00,False
+19-60863,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,555710.0,,False
+19-60884,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33783.0,,False
+19-60895,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,31.0,68623.0,,False
+19-60902,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,221.0,505370.0,,False
+19-60905,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,540851.0,,False
+19-60907,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,57.0,125310.0,,False
+19-60928,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-60933,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,133.0,302000.0,2018-07-12 22:00:00,False
+19-60946,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,7.0,11982.0,,False
+19-60968,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,37.0,82855.0,,False
+19-60980,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,172.0,389993.0,,False
+19-60984,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,114.0,258946.0,,False
+19-60986,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,227.0,519600.0,,False
+19-60999,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,76.0,146637.0,,False
+19-61003,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,545479.0,,False
+19-61004,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,11.0,21770.0,2019-01-15 23:00:00,False
+19-61006,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,45320.0,,False
+19-61008,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,219.0,501198.0,,False
+19-61010,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,16.0,33821.0,2019-01-22 23:00:00,False
+19-61016,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,202.0,459804.0,,False
+19-61026,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-61028,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,61.0,141786.0,,False
+19-61029,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,9446.0,,False
+19-61035,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-61062,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,190.0,428786.0,,False
+19-61066,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,232.0,529811.0,,False
+19-61082,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,240.0,548415.0,,False
+19-61091,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,41.0,93219.0,,False
+19-61094,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,164.0,374230.0,,False
+19-61125,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,248.0,573723.0,2018-12-25 23:00:00,False
+19-61128,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,106.0,242570.0,,False
+19-61132,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,218.0,499403.0,2018-11-12 23:00:00,False
+19-61142,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,201.0,456888.0,,False
+19-61183,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,245.0,561284.0,,False
+19-61185,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,569811.0,,False
+19-61187,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,21051.0,,False
+19-61199,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,217.0,496648.0,2018-11-09 23:00:00,False
+19-61203,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,177.0,400631.0,,False
+19-61287,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465685.0,,False
+19-61291,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,19073.0,,False
+19-61296,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,5.0,7024.0,,False
+19-61317,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,214.0,489995.0,,False
+19-61406,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,246.0,564912.0,2018-12-20 23:00:00,False
+19-61414,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,219.0,501142.0,,False
+19-61415,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575909.0,,False
+19-61416,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,51.0,116796.0,,False
+19-61426,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-61434,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573828.0,,False
+19-61441,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,531640.0,,False
+19-61444,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,136.0,311611.0,,False
+19-61453,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,776.0,,False
+19-61455,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,232.0,529339.0,,False
+19-61467,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,19.0,40902.0,,False
+19-61475,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,74.0,174674.0,2019-04-14 22:00:00,False
+19-61484,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-61485,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,32.0,72039.0,,False
+19-61486,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,223.0,510529.0,,False
+19-61491,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,540452.0,,False
+19-61506,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,239.0,546100.0,2018-12-11 23:00:00,False
+19-61509,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28128.0,,False
+19-61514,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-61521,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,20.0,43392.0,2019-01-28 23:00:00,False
+19-61558,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,196.0,444107.0,,False
+19-61559,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,111.0,252517.0,,False
+19-61574,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,167.0,380673.0,,False
+19-61584,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-61593,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,24.0,52955.0,2019-02-03 23:00:00,False
+19-61618,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,569438.0,,False
+19-61619,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,37805.0,,False
+19-61625,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572764.0,,False
+19-61630,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,114.0,258892.0,,False
+19-61632,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,76.0,,False
+19-61641,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,62.0,136899.0,,False
+19-61642,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,145.0,331241.0,,False
+19-61649,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,75.0,178263.0,,False
+19-61654,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573727.0,,False
+19-61659,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,20582.0,,False
+19-61667,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38641.0,,False
+19-61668,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,182.0,412277.0,,False
+19-61677,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,92.0,208009.0,2018-05-15 22:00:00,False
+19-61701,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,73.0,163006.0,,False
+19-61706,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,484390.0,,False
+19-61707,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,231.0,528041.0,,False
+19-61709,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30142.0,,False
+19-61710,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,24182.0,,False
+19-61717,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,480173.0,,False
+19-61718,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,31.0,69882.0,,False
+19-61723,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,115.0,261778.0,2018-10-22 22:00:00,False
+19-61724,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,54.0,123971.0,,False
+19-61774,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554660.0,,False
+19-61786,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,549902.0,,False
+19-61798,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-61807,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,182.0,412289.0,2018-09-20 22:00:00,False
+19-61817,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,110.0,250043.0,,False
+19-61838,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,75.0,167681.0,,False
+19-61839,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,223.0,510545.0,2018-11-19 23:00:00,False
+19-61864,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,24130.0,,False
+19-61872,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,250.0,576701.0,2018-12-28 23:00:00,False
+19-61893,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,159.0,364939.0,2018-08-20 22:00:00,False
+19-61932,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,True,False,2017.0,180.0,368479.0,2017-09-19 22:00:00,False
+19-61959,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564959.0,,False
+19-61965,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,187.0,423552.0,2018-09-27 22:00:00,False
+19-61991,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,229.0,523557.0,,False
+19-61992,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,105.0,239925.0,,False
+19-61994,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,193.0,436687.0,,False
+19-61997,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2015.0,217.0,395770.0,,False
+19-62043,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,184.0,416363.0,,False
+19-62063,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,222.0,508065.0,,False
+19-62087,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,221.0,505908.0,,False
+19-62133,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,209.0,476355.0,2018-10-29 23:00:00,False
+19-62147,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,226.0,517321.0,,False
+19-62153,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,46149.0,,False
+19-62185,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57941.0,,False
+19-62201,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,30.0,67481.0,,False
+19-62203,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,111.0,253651.0,2018-06-12 22:00:00,False
+19-62214,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,532643.0,,False
+19-62221,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,8.0,14395.0,2019-01-10 23:00:00,False
+19-62223,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,226.0,517320.0,,False
+19-62224,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,190.0,429889.0,,False
+19-62232,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,476760.0,,False
+19-62243,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,115.0,261124.0,,False
+19-62261,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,199.0,451596.0,,False
+19-62262,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573913.0,,False
+19-62280,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-62285,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,467563.0,,False
+19-62287,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,249.0,575803.0,2018-12-27 23:00:00,False
+19-62293,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,151.0,346680.0,2018-08-07 22:00:00,False
+19-62298,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,232.0,529697.0,,False
+19-62304,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,2.0,1968.0,2019-01-02 23:00:00,False
+19-62305,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,136.0,311052.0,,False
+19-62308,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,80.0,178264.0,,False
+19-62321,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,219.0,501179.0,2018-11-13 23:00:00,False
+19-62323,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,201.0,456807.0,,False
+19-62328,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,61.0,141565.0,,False
+19-62329,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,734.0,,False
+19-62336,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,238.0,543938.0,,False
+19-62337,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,8.0,14414.0,,False
+19-62341,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,241.0,550749.0,2018-12-13 23:00:00,False
+19-62355,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,8.0,14367.0,,False
+19-62356,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,15497.0,,False
+19-62362,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,25.0,54797.0,,False
+19-62366,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554696.0,,False
+19-62379,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,152.0,349039.0,,False
+19-62386,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,187.0,422639.0,,False
+19-62388,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,239.0,545484.0,2018-12-11 23:00:00,False
+19-62390,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,83.0,186162.0,,False
+19-62405,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,9.0,16561.0,2019-01-13 23:00:00,False
+19-62408,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,30.0,67525.0,,False
+19-62421,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,21.0,35945.0,,False
+19-62435,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,532642.0,,False
+19-62458,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,207.0,472679.0,,False
+19-62460,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,182.0,412202.0,,False
+19-62465,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,225.0,514938.0,,False
+19-62478,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,223.0,509337.0,2018-11-19 23:00:00,False
+19-62484,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,22.0,47583.0,,False
+19-62494,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-62495,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,6.0,9440.0,2019-01-08 23:00:00,False
+19-62517,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477852.0,,False
+19-62531,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,43.0,98426.0,2019-02-28 23:00:00,False
+19-62534,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,160.0,366409.0,,False
+19-62551,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,831.0,,False
+19-62559,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,236.0,539000.0,2018-12-06 23:00:00,False
+19-62569,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,13.0,25149.0,,False
+19-62581,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2015.0,239.0,434304.0,,False
+19-62588,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,201.0,456727.0,,False
+19-62589,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57330.0,,False
+19-62592,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,195.0,441510.0,,False
+19-62597,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,8874.0,,False
+19-62628,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33917.0,,False
+19-62629,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,204.0,466196.0,2018-10-22 22:00:00,False
+19-62642,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33982.0,,False
+19-62654,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465613.0,,False
+19-62658,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,236.0,539005.0,2018-12-06 23:00:00,False
+19-62669,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,540849.0,,False
+19-62676,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573925.0,,False
+19-62684,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,173.0,392780.0,,False
+19-62690,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,245.0,560514.0,,False
+19-62692,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-62699,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,36.0,80648.0,,False
+19-62704,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,24.0,52954.0,,False
+19-62731,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,21.0,46036.0,2019-01-29 23:00:00,False
+19-62732,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,75.0,166109.0,,False
+19-62740,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30723.0,,False
+19-62741,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,True,False,2018.0,17.0,34299.0,2018-01-24 23:00:00,False
+19-62742,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57982.0,,False
+19-62772,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,246.0,564946.0,2018-12-20 23:00:00,False
+19-62774,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,197.0,445659.0,2018-10-11 22:00:00,False
+19-62775,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,42531.0,,False
+19-62777,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-62781,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,20.0,42084.0,2019-01-28 23:00:00,False
+19-62797,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,241.0,549872.0,2018-12-13 23:00:00,False
+19-62811,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,485811.0,,False
+19-62815,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,45.0,102434.0,,False
+19-62818,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,True,False,2018.0,17.0,34299.0,2018-01-24 23:00:00,False
+19-62851,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,181.0,410385.0,2018-09-19 22:00:00,False
+19-62852,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,540793.0,,False
+19-62854,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572891.0,,False
+19-62855,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,18321.0,,False
+19-62879,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,232.0,530279.0,,False
+19-62900,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,153.0,350246.0,2018-08-09 22:00:00,False
+19-62920,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,469223.0,,False
+19-62936,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,565041.0,,False
+19-62950,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,80.0,179079.0,2018-04-24 22:00:00,False
+19-62990,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,191.0,431081.0,,False
+19-63002,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,31.0,70762.0,,False
+19-63004,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,19034.0,,False
+19-63006,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,31.0,68723.0,,False
+19-63007,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,250.0,577535.0,,False
+19-63015,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,196.0,442694.0,,False
+19-63029,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,230.0,525061.0,,False
+19-63032,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,42.0,94313.0,,False
+19-63044,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,183.0,414411.0,2018-09-21 22:00:00,False
+19-63045,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,11.0,20589.0,2019-01-15 23:00:00,False
+19-63050,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,229.0,524129.0,,False
+19-63063,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,557924.0,,False
+19-63068,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,45370.0,,False
+19-63070,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,483745.0,,False
+19-63079,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,5.0,7020.0,2019-01-07 23:00:00,False
+19-63107,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,182.0,411509.0,,False
+19-63110,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,470368.0,,False
+19-63111,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,476315.0,,False
+19-63112,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,207.0,472887.0,,False
+19-63113,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,219.0,501663.0,,False
+19-63114,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,17.0,35269.0,,False
+19-63115,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,225.0,514904.0,,False
+19-63116,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,242.0,552485.0,,False
+19-63118,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554083.0,,False
+19-63123,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,37.0,80758.0,2018-02-21 23:00:00,False
+19-63126,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,105.0,239269.0,,False
+19-63150,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2017.0,115.0,232090.0,2017-06-16 22:00:00,False
+19-63154,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,149.0,342037.0,,False
+19-63155,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,70.0,165583.0,,False
+19-63158,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,195.0,441510.0,,False
+19-63159,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,65.0,150193.0,,False
+19-63221,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,498643.0,,False
+19-63223,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,227.0,519654.0,,False
+19-63226,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,243.0,554543.0,2018-12-17 23:00:00,False
+19-63227,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,31.0,69799.0,,False
+19-63245,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,476799.0,,False
+19-63250,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477797.0,,False
+19-63253,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572859.0,,False
+19-63255,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,35.0,78324.0,,False
+19-63271,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,219.0,501057.0,,False
+19-63274,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,21675.0,,False
+19-63293,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,53.0,122377.0,2019-03-14 23:00:00,False
+19-63329,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,133.0,302927.0,,False
+19-63334,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,201.0,455874.0,,False
+19-63336,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,7.0,11067.0,,False
+19-63346,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,127.0,289066.0,,False
+19-63347,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,222.0,508103.0,,False
+19-63387,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,217.0,497349.0,,False
+19-63391,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,43.0,97245.0,,False
+19-63392,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,18.0,37889.0,2019-01-24 23:00:00,False
+19-63396,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38628.0,,False
+19-63406,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,145.0,298860.0,,False
+19-63429,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,557912.0,,False
+19-63430,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573770.0,,False
+19-63447,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,183.0,414129.0,,False
+19-63450,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,65.0,150841.0,,False
+19-63472,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,246.0,563545.0,,False
+19-63475,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,574578.0,,False
+19-63476,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,567116.0,,False
+19-63484,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573780.0,,False
+19-63485,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,512700.0,,False
+19-63491,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,214.0,490507.0,,False
+19-63493,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,33.0,74468.0,,False
+19-63503,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558546.0,,False
+19-63509,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,133.0,304176.0,,False
+19-63539,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,71.0,157463.0,,False
+19-63540,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,71.0,157558.0,,False
+19-63549,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,198.0,447470.0,,False
+19-63559,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573843.0,,False
+19-63564,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,469550.0,,False
+19-63565,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,183.0,414391.0,,False
+19-63573,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,550887.0,,False
+19-63578,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,224.0,512154.0,2018-11-20 23:00:00,False
+19-63589,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,15533.0,,False
+19-63591,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,5.0,7961.0,,False
+19-63607,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575825.0,,False
+19-63610,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,50.0,115115.0,,False
+19-63623,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,221.0,504971.0,,False
+19-63624,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,13.0,25880.0,,False
+19-63633,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,205.0,468003.0,2018-10-23 22:00:00,False
+19-63661,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,210.0,479645.0,2018-10-30 23:00:00,False
+19-63665,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,202.0,460311.0,,False
+19-63673,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,193.0,435535.0,,False
+19-63684,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,246.0,514280.0,,False
+19-63685,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,135.0,307279.0,,False
+19-63686,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,199.0,449908.0,,False
+19-63693,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,30.0,66040.0,2019-02-11 23:00:00,False
+19-63697,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,22922.0,,False
+19-63751,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,21047.0,,False
+19-63769,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,117.0,264892.0,,False
+19-63804,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,242.0,552872.0,,False
+19-63817,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563413.0,,False
+19-64076,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,196.0,443633.0,2018-10-09 22:00:00,False
+19-64077,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,220.0,456723.0,,False
+19-64078,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,546052.0,,False
+19-64080,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,240.0,497702.0,,False
+19-64081,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,82.0,184557.0,,False
+19-64083,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,130.0,296593.0,,False
+19-64087,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,168.0,382665.0,,False
+19-64094,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,240.0,498202.0,,False
+19-64095,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,554536.0,,False
+19-64099,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,250.0,527506.0,,False
+19-64100,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,22.0,45601.0,,False
+19-64103,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,48.0,105450.0,,False
+19-64109,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,147.0,336573.0,,False
+19-64110,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,173.0,392074.0,,False
+19-64118,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,545252.0,,False
+19-64130,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,223.0,509771.0,,False
+19-64131,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564882.0,,False
+19-64132,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57996.0,,False
+19-64141,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,243.0,553995.0,2018-12-17 23:00:00,False
+19-64184,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,485823.0,,False
+19-64186,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,512170.0,,False
+19-64187,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563610.0,,False
+19-64202,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,146.0,333560.0,2018-07-31 22:00:00,False
+19-64204,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,36.0,81320.0,2019-02-19 23:00:00,False
+19-64213,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,239.0,545225.0,2018-12-11 23:00:00,False
+19-64214,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57451.0,,False
+19-64215,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,212.0,484420.0,2018-11-02 23:00:00,False
+19-64216,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,201.0,456934.0,,False
+19-64217,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,499443.0,,False
+19-64218,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,208.0,475909.0,2018-10-26 22:00:00,False
+19-64219,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,26.0,57927.0,2019-02-05 23:00:00,False
+19-64220,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,546067.0,,False
+19-64222,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,238.0,542849.0,,False
+19-64224,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,231.0,527270.0,,False
+19-64230,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-64231,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,25.0,54885.0,2019-02-04 23:00:00,False
+19-64232,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,190.0,430437.0,2018-10-02 22:00:00,False
+19-64233,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,7.0,11027.0,,False
+19-64238,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572768.0,,False
+19-64242,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33856.0,,False
+19-64251,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,24.0,53146.0,2019-02-03 23:00:00,False
+19-64266,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,49.0,111610.0,,False
+19-64269,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,139.0,318002.0,,False
+19-64271,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477766.0,,False
+19-64273,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,45.0,102489.0,,False
+19-64280,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33924.0,,False
+19-64288,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,19.0,40284.0,,False
+19-64293,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,232.0,531115.0,2018-11-30 23:00:00,False
+19-64295,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-64300,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,212.0,485486.0,2018-11-02 23:00:00,False
+19-64318,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,101.0,231096.0,,False
+19-64319,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,171.0,388266.0,2018-09-05 22:00:00,False
+19-64349,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,179.0,406840.0,,False
+19-64363,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,235.0,536554.0,,False
+19-64383,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,212.0,484237.0,,False
+19-64390,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,24164.0,,False
+19-64391,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33804.0,,False
+19-64430,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,43.0,97448.0,,False
+19-64449,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,125.0,285290.0,,False
+19-64451,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572760.0,,False
+19-64460,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,238.0,543962.0,,False
+19-64477,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,470372.0,,False
+19-64482,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,9464.0,,False
+19-64485,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477567.0,,False
+19-64490,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,34005.0,,False
+19-64516,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,195.0,440863.0,,False
+19-64519,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,133.0,303727.0,,False
+19-64525,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,242.0,552946.0,,False
+19-64526,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,569785.0,,False
+19-64535,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,555705.0,,False
+19-64556,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,12.0,23315.0,2019-01-16 23:00:00,False
+19-64585,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,22.0,48172.0,,False
+19-64600,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,227.0,518913.0,2018-11-23 23:00:00,False
+19-64607,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,17.0,36130.0,,False
+19-64620,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30178.0,,False
+19-64634,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,24115.0,,False
+19-64636,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,41.0,92489.0,,False
+19-64642,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,128.0,292883.0,2018-07-05 22:00:00,False
+19-64643,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,225.0,515077.0,,False
+19-64646,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,226.0,517299.0,,False
+19-64651,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38583.0,,False
+19-64652,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,567031.0,,False
+19-64665,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,30.0,66542.0,,False
+19-64667,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,480294.0,,False
+19-64677,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,13.0,26542.0,,False
+19-64682,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,540492.0,,False
+19-64683,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,550616.0,,False
+19-64694,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,15.0,31465.0,2019-01-21 23:00:00,False
+19-64702,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,511843.0,,False
+19-64723,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558561.0,,False
+19-64724,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,1.0,830.0,,False
+19-64736,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,44.0,95255.0,2018-03-02 23:00:00,False
+19-64740,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,229.0,524109.0,,False
+19-64834,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,86.0,193490.0,2018-05-03 22:00:00,False
+19-64842,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,94.0,213603.0,2018-05-17 22:00:00,False
+19-64843,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,137.0,313017.0,2018-07-18 22:00:00,False
+19-64869,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564735.0,,False
+19-64870,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,128.0,292514.0,2018-07-05 22:00:00,False
+19-64871,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,136.0,279655.0,,False
+19-64875,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,3.0,2560.0,2019-01-03 23:00:00,False
+19-64876,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,535069.0,,False
+19-64884,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,2.0,1681.0,2018-01-03 23:00:00,False
+19-64887,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,128.0,292514.0,2018-07-05 22:00:00,False
+19-64891,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,128.0,292514.0,2018-07-05 22:00:00,False
+19-64898,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,12.0,23398.0,2019-01-16 23:00:00,False
+19-64908,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30761.0,,False
+19-64916,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,66.0,147147.0,,False
+19-64923,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,499518.0,,False
+19-64925,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,533989.0,,False
+19-64931,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,221.0,504953.0,,False
+19-64932,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573875.0,,False
+19-64934,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,32.0,72050.0,,False
+19-64937,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,28.0,62719.0,,False
+19-64941,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,42729.0,,False
+19-64956,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,187.0,421606.0,2018-09-27 22:00:00,False
+19-64971,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,247.0,566880.0,2018-12-21 23:00:00,False
+19-64982,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,215.0,491456.0,2018-11-07 23:00:00,False
+19-64988,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,39.0,88250.0,2019-02-24 23:00:00,False
+19-64995,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,541494.0,,False
+19-65002,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,24.0,53033.0,,False
+19-65004,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,175.0,396557.0,,False
+19-65008,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,248.0,523508.0,,False
+19-65021,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38546.0,,False
+19-65023,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,33.0,73681.0,2019-02-14 23:00:00,False
+19-65026,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,59.0,136802.0,2019-03-24 23:00:00,False
+19-65031,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,216.0,494234.0,,False
+19-65046,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,36.0,81413.0,2019-02-19 23:00:00,False
+19-65048,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,232.0,531318.0,2018-11-30 23:00:00,False
+19-65050,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,19.0,41015.0,2019-01-27 23:00:00,False
+19-65086,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,33.0,73792.0,,False
+19-65099,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,25.0,55750.0,2019-02-04 23:00:00,False
+19-65101,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,38464.0,,False
+19-65102,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,29.0,64387.0,,False
+19-65103,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,541515.0,,False
+19-65105,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,115.0,261897.0,,False
+19-65109,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,181.0,409679.0,,False
+19-65118,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,135.0,308387.0,,False
+19-65121,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30193.0,,False
+19-65133,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,221.0,505964.0,2018-11-15 23:00:00,False
+19-65141,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,533470.0,,False
+19-65155,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,230.0,525925.0,2018-11-28 23:00:00,False
+19-65157,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,210.0,480134.0,,False
+19-65158,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,546056.0,,False
+19-65159,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,243.0,555808.0,,False
+19-65160,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558808.0,,False
+19-65171,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564899.0,,False
+19-65176,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,42541.0,,False
+19-65217,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,158.0,361612.0,,False
+19-65223,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,25.0,55657.0,2019-02-04 23:00:00,False
+19-65249,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,550869.0,,False
+19-65263,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,47.0,107832.0,2019-03-06 23:00:00,False
+19-65266,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,30.0,65394.0,,False
+19-65283,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,246.0,563548.0,2018-12-20 23:00:00,False
+19-65284,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,225.0,514240.0,,False
+19-65299,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,247.0,569820.0,2018-12-21 23:00:00,False
+19-65326,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,168.0,382579.0,,False
+19-65328,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,216.0,494315.0,,False
+19-65335,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2017.0,128.0,261955.0,2017-07-06 22:00:00,False
+19-65345,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,128.0,292510.0,2018-07-05 22:00:00,False
+19-65348,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,203.0,461654.0,,False
+19-65352,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,11.0,20978.0,2018-01-16 23:00:00,False
+19-65354,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,573934.0,,False
+19-65358,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575486.0,,False
+19-65367,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,42569.0,,False
+19-65368,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,1.0,1330.0,2019-01-01 23:00:00,False
+19-65374,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,129.0,294156.0,,False
+19-65376,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,37808.0,,False
+19-65382,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,512877.0,,False
+19-65394,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,23.0,49733.0,,False
+19-65400,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,128.0,292510.0,2018-07-05 22:00:00,False
+19-65404,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,79.0,189975.0,,False
+19-65440,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564691.0,,False
+19-65443,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,250.0,577561.0,,False
+19-65449,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,25.0,55616.0,,False
+19-65453,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,17.0,36198.0,,False
+19-65455,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,131.0,298775.0,,False
+19-65459,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,9593.0,,False
+19-65461,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,206.0,469220.0,,False
+19-65462,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,133.0,302430.0,2018-07-12 22:00:00,False
+19-65475,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558761.0,,False
+19-65484,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,21596.0,,False
+19-65488,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,216.0,494164.0,,False
+19-65498,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-65500,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,43680.0,,False
+19-65501,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,72.0,169671.0,,False
+19-65503,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,176.0,398568.0,,False
+19-65505,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,234.0,534441.0,2018-12-04 23:00:00,False
+19-65507,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,41.0,89845.0,,False
+19-65516,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,216.0,494178.0,,False
+19-65538,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,195.0,441328.0,,False
+19-65549,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477791.0,,False
+19-65595,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,165.0,376975.0,,False
+19-65644,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30102.0,,False
+19-65653,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,67.0,149653.0,,False
+19-65669,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,183.0,414111.0,2018-09-21 22:00:00,False
+19-65678,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564891.0,,False
+19-65690,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,220.0,503726.0,2018-11-14 23:00:00,False
+19-65700,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,13.0,25821.0,2019-01-17 23:00:00,False
+19-6571,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,128.0,291166.0,2018-07-05 22:00:00,False
+19-65715,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,40.0,90866.0,,False
+19-65734,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,25.0,55915.0,,False
+19-65736,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,38.0,85906.0,2019-02-21 23:00:00,False
+19-65739,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,9.0,15873.0,2019-01-13 23:00:00,False
+19-65740,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,466424.0,,False
+19-65746,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,250.0,576994.0,2018-12-28 23:00:00,False
+19-65753,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,250.0,577523.0,,False
+19-65754,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,23.0,49606.0,,False
+19-65760,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,174.0,394946.0,,False
+19-65772,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,240.0,547737.0,,False
+19-65776,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,31.0,69851.0,,False
+19-65783,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,28.0,62551.0,,False
+19-65787,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,14.0,28148.0,2019-01-20 23:00:00,False
+19-65788,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,174.0,394796.0,,False
+19-65789,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,194.0,438502.0,,False
+19-65791,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,203.0,461873.0,,False
+19-65793,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+19-65796,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,35.0,78395.0,,False
+19-65799,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,215.0,491471.0,,False
+19-65803,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,206.0,469200.0,2018-10-24 22:00:00,False
+19-65810,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465377.0,,False
+19-65828,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,145.0,333142.0,,False
+19-65830,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,95.0,216938.0,2018-05-18 22:00:00,False
+19-65834,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30670.0,,False
+19-65836,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,45328.0,,False
+19-65859,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,568103.0,,False
+19-65860,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,33878.0,,False
+19-65873,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,153.0,351291.0,,False
+19-65876,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465435.0,,False
+19-65889,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465431.0,,False
+19-65893,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,541384.0,,False
+19-65906,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,31034.0,2019-01-21 23:00:00,False
+19-65909,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,36.0,81289.0,,False
+19-65921,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,16.0,33966.0,2019-01-22 23:00:00,False
+19-65923,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,16609.0,,False
+19-65940,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,188.0,424909.0,,False
+19-65948,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,223.0,510595.0,,False
+19-65950,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,12.0,23795.0,,False
+19-65953,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28988.0,,False
+19-65959,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,19.0,40275.0,,False
+19-65970,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477786.0,,False
+19-65976,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,15.0,30733.0,2019-01-21 23:00:00,False
+19-65990,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,37816.0,,False
+19-65993,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563411.0,,False
+19-66014,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,34.0,76237.0,,False
+19-66029,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,32.0,72191.0,2019-02-13 23:00:00,False
+19-66036,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,222.0,507430.0,,False
+19-66052,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28236.0,,False
+19-66063,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,26.0,57352.0,,False
+19-66077,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,233.0,532738.0,,False
+19-66084,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,183.0,414380.0,,False
+19-66085,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,11.0,21594.0,2019-01-15 23:00:00,False
+19-66087,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,13.0,26589.0,,False
+19-66101,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,33.0,74442.0,2019-02-14 23:00:00,False
+19-66121,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,39.0,88232.0,2019-02-24 23:00:00,False
+19-66130,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,234.0,486887.0,,False
+19-66131,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,241.0,501246.0,,False
+19-66133,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,112.0,254155.0,,False
+19-66135,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,218.0,498600.0,,False
+19-66166,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,535226.0,2018-12-04 23:00:00,False
+19-66181,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575463.0,,False
+19-66182,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,202.0,458101.0,,False
+19-66186,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,118.0,268607.0,,False
+19-66201,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575473.0,,False
+19-66202,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,28.0,62707.0,2019-02-07 23:00:00,False
+19-66204,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-66205,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,550790.0,,False
+19-66217,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,59.0,136611.0,2019-03-24 23:00:00,False
+19-66222,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,49.0,111937.0,,False
+19-66224,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572862.0,,False
+19-66241,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,61.0,135529.0,,False
+19-66243,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-66282,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,198.0,447574.0,,False
+19-66284,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,198.0,448560.0,,False
+19-66285,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,541485.0,,False
+19-66293,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,235.0,536899.0,,False
+19-66296,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,18938.0,,False
+19-66326,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,7.0,11881.0,,False
+19-66327,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,133.0,302022.0,,False
+19-66360,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,128.0,291246.0,,False
+19-66371,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,193.0,436928.0,,False
+19-66400,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,20.0,43541.0,,False
+19-66404,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,546043.0,,False
+19-66406,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,71.0,157511.0,2018-04-11 22:00:00,False
+19-66407,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,569515.0,,False
+19-66408,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,25190.0,,False
+19-66411,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,232.0,529330.0,,False
+19-66473,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,19228.0,,False
+19-66478,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,11.0,22534.0,,False
+19-66481,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,155.0,355907.0,,False
+19-66533,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,193.0,435964.0,2018-10-05 22:00:00,False
+19-66557,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-66560,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,228.0,521843.0,,False
+19-66575,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477599.0,,False
+19-66582,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,46143.0,2019-01-29 23:00:00,False
+19-66583,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,209.0,477943.0,,False
+19-66590,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,238.0,544099.0,,False
+19-66598,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,21.0,46143.0,2019-01-29 23:00:00,False
+19-66622,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,16566.0,,False
+19-66625,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,23350.0,,False
+19-66631,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,134.0,304834.0,,False
+19-66650,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,57.0,131033.0,2019-03-20 23:00:00,False
+19-66651,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,225.0,514902.0,2018-11-21 23:00:00,False
+19-66673,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,23.0,50682.0,,False
+19-66677,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,199.0,451907.0,,False
+19-66709,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,237.0,540845.0,,False
+19-66711,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,22.0,47580.0,,False
+19-66718,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572761.0,,False
+19-66722,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,564894.0,,False
+19-66732,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,129.0,264209.0,,False
+19-66750,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,211.0,481757.0,,False
+19-66774,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,239.0,546048.0,2018-12-11 23:00:00,False
+19-66775,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,221.0,505334.0,2018-11-15 23:00:00,False
+19-66790,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575489.0,,False
+19-66791,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,249.0,575804.0,,False
+19-66799,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,558702.0,,False
+19-66801,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,512879.0,,False
+19-66830,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,47.0,107870.0,,False
+19-66840,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,220.0,503751.0,,False
+19-66860,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,24.0,52260.0,,False
+19-66892,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,215.0,491660.0,,False
+19-66896,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,8832.0,,False
+19-66904,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,124.0,283038.0,2018-06-29 22:00:00,False
+19-66912,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,245.0,560563.0,,False
+19-66954,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+19-66955,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,150.0,343980.0,,False
+19-66957,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,36.0,81369.0,,False
+19-66980,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,219.0,501592.0,,False
+19-66987,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,211.0,482701.0,,False
+19-66989,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28118.0,,False
+19-67012,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,236.0,539002.0,,False
+19-67017,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,202.0,458168.0,,False
+19-67036,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,173.0,392732.0,,False
+19-67049,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465369.0,,False
+19-67050,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,156.0,357985.0,,False
+19-67054,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,22.0,47580.0,,False
+19-67057,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,467564.0,,False
+19-67063,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30757.0,,False
+19-67064,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,465522.0,,False
+19-67066,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,75.0,167349.0,2018-04-17 22:00:00,False
+19-67069,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,197.0,444950.0,,False
+19-67071,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,113.0,227353.0,,False
+19-67074,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,234.0,534390.0,,False
+19-67088,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,193.0,435535.0,,False
+19-67089,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,82.0,184584.0,,False
+19-67119,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,24.0,52978.0,2019-02-03 23:00:00,False
+19-67124,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,204.0,464410.0,,False
+19-67126,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28944.0,,False
+19-67131,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,24.0,51847.0,,False
+19-67132,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,194.0,439251.0,,False
+19-67145,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,37468.0,,False
+19-67154,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,158.0,362391.0,,False
+19-67172,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,27.0,60326.0,,False
+19-67195,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,18.0,37541.0,,False
+19-67218,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,239.0,546161.0,,False
+19-67224,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,7.0,11895.0,2019-01-09 23:00:00,False
+19-67228,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,211.0,481901.0,,False
+19-67235,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,9.0,15517.0,,False
+19-67237,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,21.0,45351.0,2019-01-29 23:00:00,False
+19-67240,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,146.0,334532.0,,False
+19-67247,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,28.0,62611.0,,False
+19-67280,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,161.0,368939.0,,False
+19-67299,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,39.0,88345.0,,False
+19-67331,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,95.0,216934.0,,False
+19-67365,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,224.0,511816.0,,False
+19-67367,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,25.0,54358.0,,False
+19-67387,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,246.0,563653.0,,False
+19-67389,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,6.0,9452.0,,False
+19-67392,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,104.0,207222.0,,False
+19-67398,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,78.0,186740.0,,False
+19-67399,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,225.0,514908.0,,False
+19-67438,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,216.0,493407.0,,False
+19-67454,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2017.0,151.0,311985.0,,False
+19-67588,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,249.0,575827.0,2018-12-27 23:00:00,False
+19-67589,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,10.0,19113.0,,False
+19-67590,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,200.0,453983.0,,False
+19-67600,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,78.0,186655.0,,False
+19-67603,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,205.0,468189.0,,False
+19-67622,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,202.0,459833.0,,False
+19-67625,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,12.0,22882.0,,False
+19-67629,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,178.0,403914.0,2018-09-14 22:00:00,False
+19-67645,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,247.0,568084.0,,False
+19-67650,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,187.0,422774.0,,False
+19-67659,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2018.0,231.0,527379.0,2018-11-29 23:00:00,False
+19-67669,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,199.0,452502.0,2018-10-15 22:00:00,False
+19-67670,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,79.0,190100.0,2019-04-22 22:00:00,False
+19-67671,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,16.0,32937.0,2019-01-22 23:00:00,False
+19-67689,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,248.0,572739.0,,False
+19-67691,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2016.0,132.0,237801.0,,False
+19-67696,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2019.0,12.0,24125.0,2019-01-16 23:00:00,False
+19-67724,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,244.0,557926.0,,False
+19-67730,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,119.0,269944.0,,False
+19-67731,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,15.0,30618.0,,False
+19-67743,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2018.0,241.0,550639.0,,False
+19-67810,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2019.0,14.0,28857.0,,False

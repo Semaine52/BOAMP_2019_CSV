@@ -1,0 +1,2517 @@
+BOAMP_AVIS_NUM,D_03_01_Typepouvoiradjudicateur_Minautoritenationale,D_03_02_Typepouvoiradjudicateur_Agencenational,D_03_03_Typepouvoiradjudicateur_Autotriteregional,D_03_04_Typepouvoiradjudicateur_Agenceregional,D_03_05_Typepouvoiradjudicateur_Orgdroitpublic,D_03_06_Typepouvoiradjudicateur_Institutioneuropeenne,D_03_07_Typepouvoiradjudicateur_Autre
+19-91965,False,False,False,True,False,False,
+19-91969,False,False,True,False,False,False,
+19-91972,False,False,True,False,False,False,
+19-91975,False,False,False,False,True,False,
+19-91978,True,False,False,False,False,False,
+19-91981,False,False,True,False,False,False,
+19-91983,False,False,False,True,False,False,
+19-91989,False,False,False,False,False,False,Santé
+19-91990,False,False,False,False,True,False,
+19-91991,False,False,False,False,False,False,syndicat mixte ouvert
+19-91992,False,False,False,False,True,False,
+19-91999,False,False,True,False,False,False,
+19-92000,False,False,True,False,False,False,
+19-92001,False,False,False,False,False,False,Etablissement de santé
+19-92003,False,False,False,True,False,False,
+19-92008,False,False,True,False,False,False,
+19-92010,False,False,True,False,False,False,
+19-92011,True,False,False,False,False,False,
+19-92012,False,False,False,False,True,False,
+19-92016,False,False,True,False,False,False,
+19-92023,True,False,False,False,False,False,
+19-92031,False,False,False,False,True,False,
+19-92033,False,False,False,False,True,False,
+19-92034,False,False,True,False,False,False,
+19-92041,False,False,False,False,True,False,
+19-92045,False,False,True,False,False,False,
+19-92046,False,False,True,False,False,False,
+19-92052,False,False,False,False,False,False,EPCI
+19-92054,False,False,False,False,True,False,
+19-92058,False,False,False,False,False,False,santé
+19-92061,False,False,False,False,False,False,établissement public local
+19-92062,False,False,True,False,False,False,
+19-92066,False,False,True,False,False,False,
+19-92069,False,False,False,False,False,False,Etablissement Public Local d'Enseignement (EPLE)
+19-92073,False,False,False,False,True,False,
+19-92075,False,False,False,False,True,False,
+19-92078,False,False,True,False,False,False,
+19-92079,False,False,True,False,False,False,
+19-92081,False,False,True,False,False,False,
+19-92085,False,False,False,False,True,False,
+19-92091,False,False,True,False,False,False,
+19-92095,False,False,True,False,False,False,
+19-92096,False,False,False,False,True,False,
+19-92098,False,False,False,False,False,False,Etablissement Public de Santé
+19-92100,False,False,True,False,False,False,
+19-92102,False,False,False,False,True,False,
+19-92104,False,False,True,False,False,False,
+19-92106,False,False,False,False,False,False,Établissements publics de santé
+19-92107,False,False,False,False,True,False,
+19-92108,False,False,True,False,False,False,
+19-92110,True,False,False,False,False,False,
+19-92112,False,False,False,False,True,False,
+19-92113,False,False,False,False,False,False,Établissement public à caractère scientifique et technologique (EPST)
+19-92115,False,False,True,False,False,False,
+19-92117,False,False,True,False,False,False,
+19-92119,False,False,True,False,False,False,
+19-92121,False,False,True,False,False,False,
+19-92122,False,False,False,False,False,False,CENTRE HOSPITALIER
+19-92123,False,False,False,False,True,False,
+19-92127,False,False,True,False,False,False,
+19-92129,False,False,False,False,False,False,Etablissement public de Santé
+19-92130,False,False,False,False,False,False,Délégation de Service Public
+19-92131,False,False,True,False,False,False,
+19-92132,False,False,True,False,False,False,
+19-92133,False,False,True,False,False,False,
+19-92134,False,False,False,False,True,False,
+19-92135,False,False,False,False,False,False,autre
+19-92136,False,False,True,False,False,False,
+19-92138,False,False,True,False,False,False,
+19-92144,False,False,False,False,False,False,autre
+19-92146,False,False,False,False,False,False,autre
+19-92148,False,False,True,False,False,False,
+19-92150,False,False,True,False,False,False,
+19-92152,False,False,True,False,False,False,
+19-92155,False,False,False,False,True,False,
+19-92156,False,False,False,False,False,False,autre
+19-92157,False,False,False,False,False,False,Centre Hospitalier
+19-92162,False,False,True,False,False,False,
+19-92164,False,False,True,False,False,False,
+19-92165,False,False,True,False,False,False,
+19-92166,False,False,False,False,False,False,autre
+19-92167,False,False,True,False,False,False,
+19-92168,False,False,False,False,False,False,EPIC
+19-92172,False,False,False,False,False,False,autre
+19-92173,False,False,False,False,False,False,Commune
+19-92176,True,False,False,False,False,False,
+19-92179,False,False,False,False,True,False,
+19-92183,False,False,False,False,True,False,
+19-92188,False,False,False,False,True,False,
+19-92189,False,False,False,False,False,False,Société Publique Locale d'aménagement régit par l'article L327-1 du code de l'Urbanisme
+19-92194,False,False,False,False,False,False,Etablissement de santé
+19-92196,True,False,False,False,False,False,
+19-92199,False,False,True,False,False,False,
+19-92202,False,False,True,False,False,False,
+19-92211,False,False,True,False,False,False,
+19-92216,True,False,False,False,False,False,
+19-92218,False,False,False,False,False,False,Autre
+19-92220,False,False,True,False,False,False,
+19-92226,False,False,False,False,True,False,
+19-92230,False,False,True,False,False,False,
+19-92236,False,False,True,False,False,False,
+19-92237,False,False,True,False,False,False,
+19-92243,False,False,False,False,False,False,commune
+19-92244,False,False,False,False,False,False,CTI
+19-92246,False,False,False,False,True,False,
+19-92248,False,False,False,False,False,False,Société Publique Locale
+19-92249,False,False,False,False,False,False,CTI
+19-92254,False,False,False,False,False,False,organisme de sécurité sociale
+19-92256,True,False,False,False,False,False,
+19-92263,False,False,False,False,True,False,
+19-92266,False,False,False,False,True,False,
+19-92272,False,False,False,False,False,False,SNCF IMMOBILIER
+19-92275,False,False,False,False,False,False,SNCF IMMOBILIER
+19-92276,False,False,False,False,False,False,SNCF IMMOBILIER
+19-92278,True,False,False,False,False,False,
+19-92280,True,False,False,False,False,False,
+19-92283,False,False,True,False,False,False,
+19-92291,False,False,True,False,False,False,
+19-92294,False,False,False,False,False,False,collectivité territoriale
+19-92302,False,False,False,False,True,False,
+19-92304,False,False,True,False,False,False,
+19-92308,True,False,False,False,False,False,
+19-92311,True,False,False,False,False,False,
+19-92312,False,False,False,False,True,False,
+19-92313,False,False,True,False,False,False,
+19-92314,False,False,False,False,True,False,
+19-92322,False,False,False,False,True,False,
+19-92323,False,False,True,False,False,False,
+19-92328,False,False,False,False,False,False,Association Loi 1901
+19-92330,False,False,False,False,False,False,collectivité territoriale à statut particulier
+19-92336,True,False,False,False,False,False,
+19-92342,True,False,False,False,False,False,
+19-92344,False,False,False,False,True,False,
+19-92347,False,False,True,False,False,False,
+19-92349,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+19-92351,False,False,True,False,False,False,
+19-92353,False,False,True,False,False,False,
+19-92357,False,False,False,False,True,False,
+19-92360,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-92362,False,False,False,False,True,False,
+19-92371,True,False,False,False,False,False,
+19-92379,True,False,False,False,False,False,
+19-92381,False,False,True,False,False,False,
+19-92383,False,False,False,False,False,False,Etablissement public à caractère industriel et commercial
+19-92386,True,False,False,False,False,False,
+19-92391,False,False,True,False,False,False,
+19-92392,False,False,False,False,True,False,
+19-92397,False,False,True,False,False,False,
+19-92398,False,False,False,False,False,False,autre
+19-92407,False,False,True,False,False,False,
+19-92408,False,False,True,False,False,False,
+19-92416,False,False,False,False,False,False,Fondation
+19-92417,False,False,False,False,True,False,
+19-92418,False,False,False,False,True,False,
+19-92419,False,False,False,False,True,False,
+19-92422,True,False,False,False,False,False,
+19-92423,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-92428,False,False,False,True,False,False,
+19-92431,False,False,True,False,False,False,
+19-92432,False,False,True,False,False,False,
+19-92435,False,False,False,False,False,False,Institut national
+19-92436,False,True,False,False,False,False,
+19-92437,False,False,True,False,False,False,
+19-92438,False,False,True,False,False,False,
+19-92441,False,False,True,False,False,False,
+19-92446,True,False,False,False,False,False,
+19-92448,False,False,True,False,False,False,
+19-92450,False,False,True,False,False,False,
+19-92454,False,False,True,False,False,False,
+19-92462,False,False,True,False,False,False,
+19-92471,False,False,False,False,False,False,EPST
+19-92474,False,False,False,False,True,False,
+19-92475,True,False,False,False,False,False,
+19-92476,False,False,True,False,False,False,
+19-92478,False,True,False,False,False,False,
+19-92481,False,False,False,False,True,False,
+19-92485,True,False,False,False,False,False,
+19-92486,False,False,False,False,True,False,
+19-92488,False,False,True,False,False,False,
+19-92489,False,False,True,False,False,False,
+19-92494,False,False,True,False,False,False,
+19-92495,False,False,False,False,True,False,
+19-92497,False,False,True,False,False,False,
+19-92498,False,False,False,False,True,False,
+19-92501,False,False,False,False,True,False,
+19-92502,False,False,True,False,False,False,
+19-92504,False,False,True,False,False,False,
+19-92505,False,False,True,False,False,False,
+19-92506,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-92510,False,False,True,False,False,False,
+19-92511,False,False,True,False,False,False,
+19-92513,False,False,True,False,False,False,
+19-92515,False,False,True,False,False,False,
+19-92517,False,False,True,False,False,False,
+19-92524,False,False,False,False,True,False,
+19-92533,False,False,False,False,False,False,caisse de sécurité sociale
+19-92535,False,False,False,False,False,False,Etablissement public de coopération intercommunal
+19-92536,True,False,False,False,False,False,
+19-92538,False,False,False,False,True,False,
+19-92539,False,False,True,False,False,False,
+19-92540,False,False,False,True,False,False,
+19-92543,False,False,False,False,True,False,
+19-92545,False,False,True,False,False,False,
+19-92547,False,False,True,False,False,False,
+19-92549,False,False,True,False,False,False,
+19-92551,False,False,True,False,False,False,
+19-92552,False,False,False,False,False,False,SDIS
+19-92557,False,False,True,False,False,False,
+19-92558,True,False,False,False,False,False,
+19-92561,False,False,True,False,False,False,
+19-92563,False,False,True,False,False,False,
+19-92566,False,False,True,False,False,False,
+19-92568,False,False,False,False,True,False,
+19-92569,False,False,True,False,False,False,
+19-92570,False,False,False,False,True,False,
+19-92576,False,False,True,False,False,False,
+19-92577,False,False,True,False,False,False,
+19-92581,False,False,False,False,False,False,Etablissement public de santé
+19-92584,False,False,False,False,False,False,Établissement public administratif
+19-92585,False,False,False,False,False,False,"Aménagement, gestion, promotion, animation du territoire"
+19-92589,False,False,True,False,False,False,
+19-92590,False,False,True,False,False,False,
+19-92591,False,False,True,False,False,False,
+19-92593,False,False,True,False,False,False,
+19-92595,False,False,True,False,False,False,
+19-92596,False,False,True,False,False,False,
+19-92600,False,False,True,False,False,False,
+19-92607,False,False,False,False,False,False,Société d'économie mixte
+19-92610,False,False,True,False,False,False,
+19-92613,False,False,False,False,False,False,EPCI
+19-92616,False,False,False,True,False,False,
+19-92618,False,False,False,False,False,False,Activités créatives artistiques et de spectacle
+19-92619,False,False,False,False,True,False,
+19-92621,True,False,False,False,False,False,
+19-92623,False,False,True,False,False,False,
+19-92625,False,False,True,False,False,False,
+19-92626,False,False,False,False,False,False,Etablissement public à caractère industriel et commercial
+19-92629,True,False,False,False,False,False,
+19-92638,False,False,False,False,True,False,
+19-92640,False,False,True,False,False,False,
+19-92642,True,False,False,False,False,False,
+19-92647,True,False,False,False,False,False,
+19-92651,False,False,True,False,False,False,
+19-92653,False,False,True,False,False,False,
+19-92655,True,False,False,False,False,False,
+19-92660,False,True,False,False,False,False,
+19-92661,False,False,True,False,False,False,
+19-92662,False,False,True,False,False,False,
+19-92663,False,False,False,False,False,False,autre
+19-92666,False,False,False,False,True,False,
+19-92667,False,False,True,False,False,False,
+19-92670,False,False,False,False,False,False,autre
+19-92673,False,False,True,False,False,False,
+19-92674,False,False,True,False,False,False,
+19-92681,False,False,True,False,False,False,
+19-92682,False,False,True,False,False,False,
+19-92685,False,False,True,False,False,False,
+19-92689,False,False,False,False,False,False,EPCI
+19-92692,False,False,False,False,False,False,Groupement de collectivités
+19-92694,False,False,False,False,False,False,Etablissement public
+19-92696,False,False,False,False,True,False,
+19-92701,False,False,True,False,False,False,
+19-92704,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-92707,False,False,True,False,False,False,
+19-92712,False,False,True,False,False,False,
+19-92718,False,False,True,False,False,False,
+19-92720,False,False,True,False,False,False,
+19-92722,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-92723,False,False,False,False,False,False,EPI
+19-92724,False,False,False,False,False,False,EPCI
+19-92726,False,False,True,False,False,False,
+19-69204,False,False,True,False,False,False,
+19-92733,False,False,True,False,False,False,
+19-92735,False,False,False,False,True,False,
+19-92746,False,False,False,False,True,False,
+19-92747,False,False,False,False,True,False,
+19-92749,False,False,True,False,False,False,
+19-92750,False,False,False,False,False,False,Société d'Economie Mixte
+19-92751,False,False,True,False,False,False,
+19-92756,False,False,True,False,False,False,
+19-92757,False,False,True,False,False,False,
+19-92760,False,False,False,False,True,False,
+19-92765,False,False,True,False,False,False,
+19-92766,False,False,True,False,False,False,
+19-92767,False,False,False,False,True,False,
+19-92768,False,False,True,False,False,False,
+19-1294,False,False,False,False,False,False,Personne morale de droit privé
+19-92770,False,False,True,False,False,False,
+19-92771,False,False,False,False,True,False,
+19-92775,False,False,True,False,False,False,
+19-92778,False,False,True,False,False,False,
+19-92779,False,False,False,False,True,False,
+19-92785,False,False,True,False,False,False,
+19-92787,False,False,True,False,False,False,
+19-92789,False,False,True,False,False,False,
+19-92790,False,False,False,False,False,False,Organisme de sécurité sociale
+19-92793,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-92794,False,False,False,False,False,False,caisse de retraite
+19-92798,True,False,False,False,False,False,
+19-92800,False,False,False,False,False,False,Etablissement public de santé
+19-92801,False,False,False,False,False,False,Etablissement public de l'Etat
+19-92810,False,False,False,False,True,False,
+19-92813,False,False,True,False,False,False,
+19-92819,False,False,True,False,False,False,
+19-92823,False,False,True,False,False,False,
+19-92824,False,False,True,False,False,False,
+19-92825,False,False,False,False,False,False,Institution Consulaire
+19-92833,False,False,False,False,True,False,
+19-92837,False,False,True,False,False,False,
+19-92839,False,False,False,False,False,False,SA d'HLM
+19-92840,False,False,True,False,False,False,
+19-92842,False,False,False,False,True,False,
+19-92845,False,False,False,False,True,False,
+19-92847,False,False,False,False,True,False,
+19-92849,False,False,True,False,False,False,
+19-92858,True,False,False,False,False,False,
+19-92863,False,False,True,False,False,False,
+19-92864,False,False,True,False,False,False,
+19-92865,False,False,True,False,False,False,
+19-92871,False,False,False,False,True,False,
+19-92873,False,False,True,False,False,False,
+19-92876,True,False,False,False,False,False,
+19-92877,False,False,False,False,False,False,organisme de sécurité sociale
+19-92879,False,False,True,False,False,False,
+19-92880,True,False,False,False,False,False,
+19-92881,False,False,True,False,False,False,
+19-92882,False,False,False,False,True,False,
+19-92884,False,False,False,False,True,False,
+19-92886,False,False,True,False,False,False,
+19-92889,False,False,True,False,False,False,
+19-92892,False,False,True,False,False,False,
+19-92895,False,False,True,False,False,False,
+19-92899,False,False,False,False,False,False,Etablissement public local
+19-92905,True,False,False,False,False,False,
+19-92906,False,False,True,False,False,False,
+19-92907,False,False,False,False,True,False,
+19-92915,False,False,False,False,False,False,"Enseignement supérieur, recherche et innovation"
+19-92916,False,False,False,False,True,False,
+19-92919,False,False,False,False,True,False,
+19-92925,False,False,True,False,False,False,
+19-92926,False,False,True,False,False,False,
+19-92927,True,False,False,False,False,False,
+19-92928,False,False,True,False,False,False,
+19-92933,False,False,False,False,True,False,
+19-92934,False,False,False,False,True,False,
+19-92936,False,False,False,False,True,False,
+19-92937,False,False,True,False,False,False,
+19-92938,False,False,True,False,False,False,
+19-92940,False,False,True,False,False,False,
+19-92943,False,False,True,False,False,False,
+19-92944,True,False,False,False,False,False,
+19-92945,True,False,False,False,False,False,
+19-92947,False,False,False,False,False,False,Collectivité territoriale
+19-92949,False,False,True,False,False,False,
+19-92954,False,False,True,False,False,False,
+19-67973,True,False,False,False,False,False,
+19-92959,False,False,True,False,False,False,
+19-92960,False,False,True,False,False,False,
+19-92963,False,False,True,False,False,False,
+19-92968,False,False,True,False,False,False,
+19-92975,False,False,True,False,False,False,
+19-92977,False,False,True,False,False,False,
+19-92981,True,False,False,False,False,False,
+19-92983,False,False,False,False,False,False,Association
+19-92984,False,False,False,False,True,False,
+19-92986,False,False,False,False,False,False,Etablissement public de santé
+19-92987,False,False,False,False,True,False,
+19-92988,False,False,False,False,False,False,Syndicat
+19-92993,True,False,False,False,False,False,
+19-92996,False,False,False,False,True,False,
+19-92997,True,False,False,False,False,False,
+19-92998,False,False,False,False,False,False,commune
+19-93000,False,False,True,False,False,False,
+19-93002,False,False,True,False,False,False,
+19-93004,False,False,True,False,False,False,
+19-93006,False,True,False,False,False,False,
+19-93009,False,False,False,False,True,False,
+19-93014,True,False,False,False,False,False,
+19-93016,True,False,False,False,False,False,
+19-93018,False,False,True,False,False,False,
+19-93020,False,False,False,False,True,False,
+19-93022,False,False,True,False,False,False,
+19-93025,False,False,False,False,True,False,
+19-93031,False,False,False,False,False,False,autre
+19-93034,False,False,True,False,False,False,
+19-93039,False,False,False,False,True,False,
+19-93046,False,False,True,False,False,False,
+19-93052,False,False,True,False,False,False,
+19-93053,False,False,True,False,False,False,
+19-93054,False,False,False,False,False,False,autre
+19-93056,False,False,False,False,False,False,EPCI
+19-93059,True,False,False,False,False,False,
+19-93061,False,False,False,False,False,False,Etablissement public administratif
+19-93074,False,False,True,False,False,False,
+19-93075,True,False,False,False,False,False,
+19-93077,False,False,True,False,False,False,
+19-93082,True,False,False,False,False,False,
+19-93089,False,False,False,False,False,False,Centre communal d'action sociale
+19-93092,False,False,True,False,False,False,
+19-93093,False,False,True,False,False,False,
+19-93095,False,False,False,False,False,False,Commune
+19-93102,True,False,False,False,False,False,
+19-93103,False,False,True,False,False,False,
+19-93105,True,False,False,False,False,False,
+19-93107,False,False,True,False,False,False,
+19-93109,False,False,False,False,True,False,
+19-93113,False,False,True,False,False,False,
+19-93121,False,False,True,False,False,False,
+19-93123,False,False,True,False,False,False,
+19-93125,False,False,True,False,False,False,
+19-93128,False,False,True,False,False,False,
+19-93130,False,False,True,False,False,False,
+19-93132,False,False,False,False,True,False,
+19-93133,False,False,False,True,False,False,
+19-93134,False,False,False,False,True,False,
+19-93135,False,False,False,False,True,False,
+19-93136,False,False,True,False,False,False,
+19-93137,True,False,False,False,False,False,
+19-93140,False,False,True,False,False,False,
+19-93141,True,False,False,False,False,False,
+19-93143,False,False,True,False,False,False,
+19-93145,False,False,True,False,False,False,
+19-93146,False,False,True,False,False,False,
+19-93147,False,False,True,False,False,False,
+19-93156,False,False,True,False,False,False,
+19-93159,False,False,True,False,False,False,
+19-93161,False,False,False,False,True,False,
+19-93166,False,False,True,False,False,False,
+19-93168,False,False,True,False,False,False,
+19-93171,False,False,False,False,True,False,
+19-93174,False,False,True,False,False,False,
+19-93175,False,False,True,False,False,False,
+19-93176,False,False,True,False,False,False,
+19-93177,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-93182,False,False,False,False,False,False,Sénat
+19-93185,False,False,False,False,True,False,
+19-93186,False,False,False,False,True,False,
+19-93189,False,False,False,False,False,False,collectivité territoriale à statut particulier
+19-93191,False,False,True,False,False,False,
+19-93194,False,False,False,False,True,False,
+19-93196,False,False,True,False,False,False,
+19-93198,False,False,False,False,False,False,Enseignement et recherche
+19-93199,False,False,False,False,True,False,
+19-93203,False,False,True,False,False,False,
+19-93204,False,False,False,False,True,False,
+19-93209,False,False,True,False,False,False,
+19-93210,False,False,False,False,True,False,
+19-93212,True,False,False,False,False,False,
+19-93213,False,False,False,False,False,False,Etablissement Public de Santé
+19-93214,False,False,True,False,False,False,
+19-93215,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel (EPSCP)"
+19-93218,True,False,False,False,False,False,
+19-93219,False,False,False,False,False,False,Collectivité territoriale
+19-93223,False,False,True,False,False,False,
+19-93233,False,False,False,False,True,False,
+19-93234,False,False,False,False,True,False,
+19-93242,False,False,False,True,False,False,
+19-93247,False,False,True,False,False,False,
+19-93249,False,False,False,False,False,False,Collectivité territoriale
+19-93250,False,False,True,False,False,False,
+19-93251,False,False,False,False,True,False,
+19-93254,False,False,True,False,False,False,
+19-93256,False,False,True,False,False,False,
+19-93257,False,False,True,False,False,False,
+19-93262,False,False,False,False,False,False,Commune
+19-93268,True,False,False,False,False,False,
+19-93270,False,False,False,False,False,False,Etablissement de santé
+19-93276,False,False,True,False,False,False,
+19-93281,False,False,False,False,True,False,
+19-93284,False,False,True,False,False,False,
+19-93286,False,False,True,False,False,False,
+19-93287,False,False,False,False,True,False,
+19-93294,False,False,False,False,False,False,Commune
+19-93296,True,False,False,False,False,False,
+19-93297,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-93301,False,False,True,False,False,False,
+19-93304,False,False,True,False,False,False,
+19-93308,False,False,False,False,True,False,
+19-93311,False,False,False,False,False,False,Etablissement Public de Santé
+19-93312,False,False,True,False,False,False,
+19-93315,False,False,False,True,False,False,
+19-93319,False,False,False,False,True,False,
+19-93322,False,False,False,False,True,False,
+19-93333,False,False,True,False,False,False,
+19-93337,True,False,False,False,False,False,
+19-93341,False,False,False,False,False,False,autre
+19-93342,False,False,True,False,False,False,
+19-93343,False,False,True,False,False,False,
+19-93344,False,False,False,False,True,False,
+19-93345,False,False,True,False,False,False,
+19-93346,False,False,True,False,False,False,
+19-93347,False,False,False,False,True,False,
+19-93348,False,False,False,False,True,False,
+19-93350,False,False,False,True,False,False,
+19-93353,False,False,False,False,False,False,Organisme de droit privé gérant une mission de service public
+19-93354,False,False,False,False,False,False,Etablissement public local
+19-93356,True,False,False,False,False,False,
+19-93357,True,False,False,False,False,False,
+19-93358,False,False,False,False,True,False,
+19-93359,False,False,False,False,True,False,
+19-93360,False,False,False,False,False,False,Etablissement Public de Santé.
+19-93364,False,False,False,False,False,False,Etablissement Public Territorial
+19-93366,False,False,False,True,False,False,
+19-93370,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-93372,False,False,True,False,False,False,
+19-93377,False,True,False,False,False,False,
+19-93381,False,False,True,False,False,False,
+19-93389,False,False,True,False,False,False,
+19-93391,False,False,True,False,False,False,
+19-93392,False,False,False,False,True,False,
+19-93393,False,False,False,False,True,False,
+19-93394,False,False,False,False,False,False,Société Publique Locale
+19-93396,False,False,True,False,False,False,
+19-93397,False,False,True,False,False,False,
+19-93399,False,False,True,False,False,False,
+19-93402,False,False,False,False,True,False,
+19-93403,False,False,False,True,False,False,
+19-93404,True,False,False,False,False,False,
+19-93406,False,False,True,False,False,False,
+19-93407,False,False,False,False,False,False,Santé
+19-93410,False,False,False,False,False,False,Autre
+19-93411,False,False,False,False,False,False,EPS
+19-93413,False,False,True,False,False,False,
+19-93419,False,False,False,False,True,False,
+19-93420,False,False,False,False,False,False,autre
+19-93421,False,False,False,False,True,False,
+19-93423,False,False,False,False,True,False,
+19-93435,False,False,False,False,False,False,CHU
+19-93437,True,False,False,False,False,False,
+19-93443,False,False,True,False,False,False,
+19-93445,False,False,True,False,False,False,
+19-93446,False,False,False,False,False,False,Etablissement public à caractère scientifique et technologique
+19-93452,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+19-93453,False,False,True,False,False,False,
+19-93457,False,False,True,False,False,False,
+19-93467,False,False,True,False,False,False,
+19-93471,False,False,False,False,False,False,collectivité territoriale
+19-93474,False,False,False,False,False,False,EHPAD autonome
+19-93481,True,False,False,False,False,False,
+19-93490,False,False,False,False,False,False,hopital
+19-93492,False,False,True,False,False,False,
+19-93501,False,False,False,False,True,False,
+19-93507,False,False,False,False,False,False,Centre Hospitalier
+19-93510,False,False,True,False,False,False,
+19-93512,False,False,True,False,False,False,
+19-93516,False,False,False,False,False,False,autre
+19-93518,False,False,False,False,True,False,
+19-93520,False,False,True,False,False,False,
+19-93526,False,False,True,False,False,False,
+19-93533,False,False,False,False,True,False,
+19-93536,False,False,False,True,False,False,
+19-93537,False,False,True,False,False,False,
+19-93541,False,False,False,True,False,False,
+19-93543,False,False,True,False,False,False,
+19-93549,False,False,False,False,False,False,MAIRIE
+19-93552,False,False,True,False,False,False,
+19-93554,False,False,True,False,False,False,
+19-93558,False,False,True,False,False,False,
+19-93560,False,False,True,False,False,False,
+19-93563,False,False,False,False,False,False,EPS
+19-93566,False,False,True,False,False,False,
+19-93567,False,False,True,False,False,False,
+19-93569,False,False,False,False,False,False,SANTE
+19-93570,False,False,False,False,True,False,
+19-93572,True,False,False,False,False,False,
+19-93575,False,False,True,False,False,False,
+19-93577,False,False,False,True,False,False,
+19-93584,False,False,False,False,True,False,
+19-93587,False,False,True,False,False,False,
+19-93602,False,False,False,False,True,False,
+19-93610,False,False,False,False,True,False,
+19-93612,False,False,False,False,False,False,hopital
+19-93613,False,False,True,False,False,False,
+19-93619,False,False,False,False,True,False,
+19-93620,False,True,False,False,False,False,
+19-93627,False,False,False,False,True,False,
+19-93628,True,False,False,False,False,False,
+19-93631,False,False,False,False,True,False,
+19-93632,False,False,True,False,False,False,
+19-93634,False,False,True,False,False,False,
+19-93637,False,False,True,False,False,False,
+19-93638,False,False,True,False,False,False,
+19-93640,False,False,False,True,False,False,
+19-93644,False,False,False,False,True,False,
+19-93645,False,False,False,False,True,False,
+19-93647,False,False,True,False,False,False,
+19-93653,False,False,False,False,False,False,autre
+19-93656,False,False,False,False,False,False,Collectivité territoriale
+19-93658,True,False,False,False,False,False,
+19-93659,False,False,False,False,False,False,Etablissement Public de Santé
+19-93661,False,False,False,False,False,False,CENTRE HOSPITALIER
+19-93663,False,False,True,False,False,False,
+19-93666,False,False,False,False,False,False,"Groupement de Coopération Sociale et Médico-Social Centre Gérontologique du Roussillon (GCSMS CGR) Direction générale 20, Avenue du Languedoc - B.P.49954 66046 PERPIGNAN Cedex 9"
+19-93669,False,False,False,False,True,False,
+19-93671,False,False,True,False,False,False,
+19-93676,True,False,False,False,False,False,
+19-93678,False,False,False,False,True,False,
+19-93679,False,False,False,False,False,False,SATT
+19-93683,False,False,True,False,False,False,
+19-93685,False,False,False,False,True,False,
+19-93686,True,False,False,False,False,False,
+19-93696,False,True,False,False,False,False,
+19-93697,False,False,True,False,False,False,
+19-93699,False,False,False,True,False,False,
+19-93702,False,False,False,False,True,False,
+19-93703,False,False,True,False,False,False,
+19-93707,False,False,True,False,False,False,
+19-93710,False,False,True,False,False,False,
+19-93713,False,False,False,False,True,False,
+19-93717,False,False,True,False,False,False,
+19-93718,False,False,True,False,False,False,
+19-93720,False,False,True,False,False,False,
+19-93722,False,False,True,False,False,False,
+19-93723,False,False,True,False,False,False,
+19-93725,False,False,False,False,False,False,autre
+19-93726,False,False,True,False,False,False,
+19-93727,False,False,True,False,False,False,
+19-93731,False,False,False,True,False,False,
+19-93739,False,False,True,False,False,False,
+19-93740,False,False,True,False,False,False,
+19-93741,False,False,True,False,False,False,
+19-93747,False,False,True,False,False,False,
+19-93752,False,False,True,False,False,False,
+19-93753,False,False,False,True,False,False,
+19-93755,True,False,False,False,False,False,
+19-93758,False,False,True,False,False,False,
+19-93761,False,False,True,False,False,False,
+19-93762,False,False,False,False,False,False,Etablissement public de santé
+19-93763,False,False,True,False,False,False,
+19-93765,False,False,True,False,False,False,
+19-93766,False,False,False,False,True,False,
+19-93775,False,False,False,False,True,False,
+19-93776,False,False,True,False,False,False,
+19-93779,False,False,False,False,False,False,autre
+19-93788,False,False,True,False,False,False,
+19-93790,False,False,False,True,False,False,
+19-93791,False,False,False,False,True,False,
+19-93793,True,False,False,False,False,False,
+19-93794,False,False,True,False,False,False,
+19-93796,True,False,False,False,False,False,
+19-93797,False,False,False,False,True,False,
+19-93801,False,False,True,False,False,False,
+19-93803,False,False,True,False,False,False,
+19-93804,False,False,True,False,False,False,
+19-93805,False,False,False,False,False,False,Société d'Economie Mixte
+19-93807,False,False,False,False,False,False,EPCI
+19-93808,True,False,False,False,False,False,
+19-93810,False,False,False,False,False,False,SEM
+19-93813,True,False,False,False,False,False,
+19-93815,False,False,False,True,False,False,
+19-93818,False,False,True,False,False,False,
+19-93819,False,False,False,False,True,False,
+19-93820,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-93830,False,False,False,False,True,False,
+19-93832,False,False,True,False,False,False,
+19-93833,False,False,False,True,False,False,
+19-93845,False,False,True,False,False,False,
+19-93849,False,False,False,False,True,False,
+19-93853,False,False,True,False,False,False,
+19-93854,False,False,True,False,False,False,
+19-93855,False,False,True,False,False,False,
+19-93858,False,False,True,False,False,False,
+19-93861,False,False,True,False,False,False,
+19-93863,True,False,False,False,False,False,
+19-93864,False,False,True,False,False,False,
+19-93865,True,False,False,False,False,False,
+19-93871,True,False,False,False,False,False,
+19-93875,False,False,False,False,True,False,
+19-93876,False,False,True,False,False,False,
+19-93877,False,False,True,False,False,False,
+19-93879,False,False,False,False,False,False,"Établissement public à caractère scientifique, culturel et professionnel"
+19-93885,False,False,False,False,False,False,Syndicat Mixte
+19-93887,False,False,False,False,False,False,Etablissement public de santé
+19-46936,False,False,False,False,True,False,
+19-93901,False,False,False,False,False,False,SA d'HLM
+19-93905,False,False,False,False,True,False,
+19-67619,False,False,True,False,False,False,
+19-93911,False,False,True,False,False,False,
+19-93912,True,False,False,False,False,False,
+19-93914,False,False,False,False,True,False,
+19-93916,True,False,False,False,False,False,
+19-93925,False,False,True,False,False,False,
+19-93927,False,False,True,False,False,False,
+19-93930,False,False,True,False,False,False,
+19-93931,False,False,False,False,True,False,
+19-93934,False,False,False,False,True,False,
+19-93937,False,False,True,False,False,False,
+19-93941,False,False,True,False,False,False,
+19-93952,False,False,True,False,False,False,
+19-93956,False,False,True,False,False,False,
+19-93958,True,False,False,False,False,False,
+19-93959,False,False,True,False,False,False,
+19-93960,False,False,True,False,False,False,
+19-56673,True,False,False,False,False,False,
+19-93962,False,False,False,False,False,False,EPIC
+19-93963,False,False,True,False,False,False,
+19-93966,True,False,False,False,False,False,
+19-93967,False,False,True,False,False,False,
+19-93968,False,False,True,False,False,False,
+19-93971,False,False,False,False,True,False,
+19-93972,False,False,False,False,True,False,
+19-93973,True,False,False,False,False,False,
+19-93979,True,False,False,False,False,False,
+19-93981,False,False,True,False,False,False,
+19-93982,False,False,True,False,False,False,
+19-93993,False,False,True,False,False,False,
+19-93996,False,False,True,False,False,False,
+19-94000,False,False,True,False,False,False,
+19-94003,True,False,False,False,False,False,
+19-94008,False,False,True,False,False,False,
+19-94009,False,False,True,False,False,False,
+19-94015,False,False,False,False,False,False,Etablissement public local
+19-94018,False,False,True,False,False,False,
+19-94019,False,False,False,False,False,False,centre hospitalier
+19-94021,False,False,True,False,False,False,
+19-94022,False,False,True,False,False,False,
+19-94024,True,False,False,False,False,False,
+19-94025,False,False,False,False,False,False,Organisme de Protection Sociale
+19-94029,False,False,True,False,False,False,
+19-94035,False,False,False,False,True,False,
+19-94038,False,False,True,False,False,False,
+19-94039,False,False,False,False,False,False,ETABLISSEMENT DE SANTE
+19-94044,False,False,False,False,True,False,
+19-94046,False,False,True,False,False,False,
+19-94047,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-94048,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+19-94049,False,False,False,False,True,False,
+19-94052,False,False,True,False,False,False,
+19-94053,True,False,False,False,False,False,
+19-94056,True,False,False,False,False,False,
+19-94062,True,False,False,False,False,False,
+19-94065,False,False,False,False,True,False,
+19-94066,False,False,False,True,False,False,
+19-94070,False,False,True,False,False,False,
+19-94071,True,False,False,False,False,False,
+19-94072,False,False,False,False,False,False,Etablissement Public de Santé
+19-94074,False,False,False,False,True,False,
+19-94076,False,False,True,False,False,False,
+19-94085,False,False,False,False,False,False,autre
+19-94087,False,False,False,False,True,False,
+19-94089,False,False,True,False,False,False,
+19-94090,False,False,False,False,True,False,
+19-94093,False,False,False,False,True,False,
+19-94096,False,False,False,True,False,False,
+19-94099,False,False,True,False,False,False,
+19-94104,False,False,True,False,False,False,
+19-94105,False,False,True,False,False,False,
+19-94108,False,False,False,False,True,False,
+19-94111,False,False,False,False,False,False,Caisse d'Allocations Familiales
+19-94113,False,False,False,False,True,False,
+19-94116,False,False,True,False,False,False,
+19-94118,False,False,False,False,False,False,Collectivité Territoriale
+19-94126,False,False,False,False,True,False,
+19-94129,False,False,False,False,True,False,
+19-94133,False,False,True,False,False,False,
+19-94135,False,False,False,False,True,False,
+19-94138,False,False,True,False,False,False,
+19-94141,False,False,True,False,False,False,
+19-94145,True,False,False,False,False,False,
+19-94162,False,False,False,False,False,False,autre
+19-94166,False,False,True,False,False,False,
+19-94167,True,False,False,False,False,False,
+19-94170,False,False,False,False,True,False,
+19-68698,False,False,True,False,False,False,
+19-94172,False,False,False,False,True,False,
+19-94173,False,False,False,False,True,False,
+19-94175,False,False,False,False,False,False,Société Publique Locale
+19-94176,False,False,False,False,False,False,EPS
+19-94178,False,False,True,False,False,False,
+19-94181,False,False,False,False,False,False,société publique locale
+19-94183,False,False,False,False,False,False,Office Public de l'Habitat
+19-94184,False,False,False,False,False,False,Etablissement Public de Santé
+19-94185,False,False,False,False,True,False,
+19-94188,False,False,True,False,False,False,
+19-94194,True,False,False,False,False,False,
+19-94199,False,False,False,True,False,False,
+19-94202,True,False,False,False,False,False,
+19-94203,False,False,False,False,True,False,
+19-94205,False,False,True,False,False,False,
+19-94217,True,False,False,False,False,False,
+19-94220,False,False,False,False,True,False,
+19-94221,False,False,True,False,False,False,
+19-94222,False,False,False,False,False,False,EPS
+19-94225,False,False,True,False,False,False,
+19-94227,False,False,False,False,True,False,
+19-94230,False,False,True,False,False,False,
+19-94231,False,False,True,False,False,False,
+19-94236,False,False,False,False,True,False,
+19-94237,False,False,True,False,False,False,
+19-94241,False,False,False,False,True,False,
+19-94245,False,False,True,False,False,False,
+19-94253,False,False,False,False,True,False,
+19-94254,False,False,True,False,False,False,
+19-94261,False,False,True,False,False,False,
+19-94263,False,False,True,False,False,False,
+19-94267,False,False,False,False,True,False,
+19-94268,False,False,True,False,False,False,
+19-94270,False,False,True,False,False,False,
+19-94271,False,False,False,False,True,False,
+19-94275,False,False,True,False,False,False,
+19-94276,True,False,False,False,False,False,
+19-94278,False,False,True,False,False,False,
+19-94280,False,False,True,False,False,False,
+19-94281,False,False,True,False,False,False,
+19-94283,False,False,False,False,True,False,
+19-94286,False,False,False,False,True,False,
+19-94289,False,False,False,False,True,False,
+19-94290,False,False,True,False,False,False,
+19-68576,False,False,False,False,True,False,
+19-94294,False,False,False,False,True,False,
+19-94295,False,False,False,False,True,False,
+19-94296,False,False,True,False,False,False,
+19-94297,False,False,True,False,False,False,
+19-34559,True,False,False,False,False,False,
+19-94299,False,False,False,False,True,False,
+19-94301,False,False,False,False,True,False,
+19-94302,False,False,True,False,False,False,
+19-94306,False,False,False,False,False,False,Logements et équipements collectifs
+19-94308,False,False,True,False,False,False,
+19-94312,False,False,False,False,True,False,
+19-94315,False,False,True,False,False,False,
+19-94319,False,False,True,False,False,False,
+19-94320,False,False,False,False,True,False,
+19-94322,False,False,False,False,True,False,
+19-94330,False,False,False,True,False,False,
+19-94331,True,False,False,False,False,False,
+19-94333,False,False,True,False,False,False,
+19-94335,False,False,False,False,True,False,
+19-94337,True,False,False,False,False,False,
+19-94338,False,False,True,False,False,False,
+19-94342,True,False,False,False,False,False,
+19-94344,False,False,True,False,False,False,
+19-94345,False,False,False,False,True,False,
+19-94347,True,False,False,False,False,False,
+19-94349,False,False,False,False,True,False,
+19-94353,False,False,True,False,False,False,
+19-94371,False,False,False,False,False,False,Etablissement Public de Santé
+19-94372,False,False,False,False,True,False,
+19-94377,False,False,False,False,True,False,
+19-94378,False,False,True,False,False,False,
+19-94380,False,False,False,False,False,False,autre
+19-94381,False,False,True,False,False,False,
+19-94382,False,False,False,False,True,False,
+19-94383,False,False,True,False,False,False,
+19-94388,False,False,False,False,True,False,
+19-94389,False,False,False,False,True,False,
+19-94391,False,False,True,False,False,False,
+19-94393,True,False,False,False,False,False,
+19-94397,False,False,True,False,False,False,
+19-94400,False,False,False,False,True,False,
+19-94402,False,False,False,False,True,False,
+19-94404,False,False,True,False,False,False,
+19-94406,False,False,False,False,True,False,
+19-94414,False,False,False,False,True,False,
+19-94415,False,True,False,False,False,False,
+19-94416,False,False,True,False,False,False,
+19-94420,False,False,True,False,False,False,
+19-94421,False,False,False,False,True,False,
+19-94423,False,False,False,False,False,False,Etablissement public de santé
+19-94424,False,True,False,False,False,False,
+19-94425,False,False,True,False,False,False,
+19-94430,False,True,False,False,False,False,
+19-94431,True,False,False,False,False,False,
+19-94440,True,False,False,False,False,False,
+19-94441,False,False,True,False,False,False,
+19-94443,False,False,True,False,False,False,
+19-94447,True,False,False,False,False,False,
+19-94450,False,False,False,True,False,False,
+19-94454,True,False,False,False,False,False,
+19-94458,False,False,False,False,True,False,
+19-94461,False,False,False,False,True,False,
+19-94463,False,False,True,False,False,False,
+19-94477,False,False,False,False,True,False,
+19-94478,False,False,True,False,False,False,
+19-94481,False,False,False,True,False,False,
+19-94482,False,False,True,False,False,False,
+19-94484,False,False,False,False,False,False,ORGANISME DE PROTECTION SOCIALE
+19-94486,False,False,False,False,False,False,Collectivite territoriale
+19-94487,False,False,True,False,False,False,
+19-94488,False,False,True,False,False,False,
+19-94491,False,False,False,False,True,False,
+19-94494,False,False,True,False,False,False,
+19-94496,False,False,False,False,False,False,Protection Sociale
+19-94499,False,False,False,False,False,False,EPSCP
+19-94503,False,False,False,False,False,False,"Aménagement, gestion, promotion, animation du territoire"
+19-94504,False,False,False,False,False,False,Syndicat Intercommunal de Regroupement Pédagogique
+19-94509,False,False,False,False,False,False,Société publique locale
+19-94510,False,False,False,False,False,False,Organisme privé de Sécurité sociale en charge d'une mission de service public
+19-94514,False,False,False,False,True,False,
+19-94519,False,False,True,False,False,False,
+19-94521,False,False,True,False,False,False,
+19-94522,False,False,False,False,True,False,
+19-94523,False,False,True,False,False,False,
+19-94530,False,False,False,False,True,False,
+19-94532,False,False,False,False,True,False,
+19-94533,False,False,False,False,False,False,SOCIETE PUBLIQUE LOCALE
+19-68423,False,False,False,False,False,False,Chambre consulaire
+19-94544,False,False,True,False,False,False,
+19-94545,False,False,True,False,False,False,
+19-94559,False,False,False,False,False,False,Commune
+19-94567,False,False,False,False,False,False,Syndicat d'énergie et de e-communication
+19-94576,False,False,True,False,False,False,
+19-94583,False,False,False,False,False,False,Centre Hospitalier de Mayotte
+19-94587,False,False,True,False,False,False,
+19-94590,True,False,False,False,False,False,
+19-94594,False,False,True,False,False,False,
+19-94596,False,False,True,False,False,False,
+19-94599,False,False,False,False,True,False,
+19-94602,False,False,True,False,False,False,
+19-94609,True,False,False,False,False,False,
+19-94611,False,False,True,False,False,False,
+19-94613,False,False,True,False,False,False,
+19-94614,False,False,True,False,False,False,
+19-94617,False,False,True,False,False,False,
+19-94622,False,False,False,False,True,False,
+19-94624,False,False,False,False,False,False,Etablissement Public de Santé
+19-94625,False,False,False,False,True,False,
+19-94627,False,False,False,False,True,False,
+19-94628,False,False,False,False,False,False,hopital
+19-94629,False,False,True,False,False,False,
+19-94630,False,False,True,False,False,False,
+19-94635,False,False,True,False,False,False,
+19-94637,False,False,True,False,False,False,
+19-94648,False,False,True,False,False,False,
+19-94651,False,False,True,False,False,False,
+19-94652,False,False,False,False,False,False,Groupement hospitalier de territoire
+19-94653,False,False,False,False,False,False,Institut national
+19-94654,False,False,False,False,False,False,Association de droit privé
+19-94655,False,False,True,False,False,False,
+19-94658,False,False,False,False,False,False,autre
+19-94660,False,False,False,False,False,False,enreprise sociale pour l'habitat
+19-94661,False,False,False,False,False,False,autre
+19-94664,False,False,False,True,False,False,
+19-94665,False,False,True,False,False,False,
+19-94666,False,False,True,False,False,False,
+19-94667,False,False,True,False,False,False,
+19-94669,False,False,True,False,False,False,
+19-94670,False,False,True,False,False,False,
+19-94674,False,False,False,False,True,False,
+19-94678,False,False,False,False,False,False,hopital
+19-94679,False,False,False,False,False,False,autre
+19-94681,False,False,False,False,False,False,Santé
+19-94685,False,False,False,False,False,False,hopital
+19-94687,False,False,False,False,True,False,
+19-94692,False,False,True,False,False,False,
+19-94696,False,False,False,False,False,False,SEM
+19-94703,False,False,False,False,False,False,collectivité territoriale
+19-94712,False,False,True,False,False,False,
+19-94715,False,False,True,False,False,False,
+19-94720,False,False,False,False,False,False,Etablissement public de santé
+19-94723,True,False,False,False,False,False,
+19-94726,False,False,False,True,False,False,
+19-94727,False,False,True,False,False,False,
+19-94733,False,False,True,False,False,False,
+19-94735,False,False,False,False,False,False,Etablissement public de santé
+19-94736,False,False,True,False,False,False,
+19-94738,False,False,False,False,True,False,
+19-94741,False,False,False,False,False,False,EPCI
+19-94742,False,False,True,False,False,False,
+19-94743,False,False,True,False,False,False,
+19-94752,False,False,False,False,True,False,
+19-94757,False,False,False,False,True,False,
+19-85570,True,False,False,False,False,False,
+19-94759,False,False,True,False,False,False,
+19-94760,False,False,True,False,False,False,
+19-94765,False,False,False,False,True,False,
+19-94767,False,False,False,False,False,False,centre hospitalier
+19-94769,True,False,False,False,False,False,
+19-94771,False,False,True,False,False,False,
+19-94774,False,False,False,False,True,False,
+19-94778,False,False,False,False,True,False,
+19-94783,False,False,False,False,True,False,
+19-94786,False,False,True,False,False,False,
+19-94790,False,False,True,False,False,False,
+19-94791,False,False,False,False,True,False,
+19-94794,False,False,False,False,False,False,centre hospitalier
+19-94801,False,False,True,False,False,False,
+19-94802,False,False,True,False,False,False,
+19-94805,False,False,True,False,False,False,
+19-94806,False,False,True,False,False,False,
+19-94807,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-94814,False,False,True,False,False,False,
+19-94818,False,False,False,False,True,False,
+19-94824,False,False,True,False,False,False,
+19-94831,False,False,False,False,True,False,
+19-46026,False,False,False,False,True,False,
+19-94837,False,False,False,False,True,False,
+19-94838,True,False,False,False,False,False,
+19-94839,False,False,True,False,False,False,
+19-94845,False,False,False,False,False,False,Etablissement public administratif sous tutelle du MESRI
+19-94846,False,False,False,False,False,False,Etablissement public
+19-94847,False,False,False,False,True,False,
+19-94848,False,False,True,False,False,False,
+19-94850,False,False,True,False,False,False,
+19-94859,False,False,True,False,False,False,
+19-94862,False,False,False,False,False,False,Santé
+19-94863,False,False,True,False,False,False,
+19-94864,False,False,False,False,True,False,
+19-94865,False,False,False,False,True,False,
+19-94868,False,False,True,False,False,False,
+19-94869,False,False,True,False,False,False,
+19-94884,False,False,False,False,False,False,"Organisme de droit privé au sens de l'article L.1211-1,2° du code la commande publique"
+19-94888,False,False,False,False,True,False,
+19-94889,False,False,False,False,True,False,
+19-94894,False,False,True,False,False,False,
+19-94897,True,False,False,False,False,False,
+19-94899,False,False,True,False,False,False,
+19-94900,False,False,False,False,False,False,COLLECTIVITE TERRITORIALE
+19-94903,False,False,False,False,False,False,Sécurité sociale
+19-94907,True,False,False,False,False,False,
+19-94910,False,False,False,False,False,False,autre
+19-94912,False,False,True,False,False,False,
+19-94913,False,False,False,False,True,False,
+19-94914,False,False,True,False,False,False,
+19-94916,False,False,True,False,False,False,
+19-94919,False,False,False,False,True,False,
+19-94920,False,False,True,False,False,False,
+19-94921,False,False,True,False,False,False,
+19-94924,True,False,False,False,False,False,
+19-94926,True,False,False,False,False,False,
+19-94930,False,False,False,False,True,False,
+19-94932,False,False,False,False,True,False,
+19-94936,False,False,True,False,False,False,
+19-94938,False,False,False,False,True,False,
+19-94942,False,False,True,False,False,False,
+19-94944,False,False,False,False,True,False,
+19-94949,False,False,False,False,False,False,Etablissement Public de Coopération intercommunale
+19-94955,False,False,True,False,False,False,
+19-94956,False,False,False,False,False,False,Organisme de droit privé
+19-94959,True,False,False,False,False,False,
+18-113090,False,False,False,False,True,False,
+19-94964,True,False,False,False,False,False,
+19-94965,False,False,True,False,False,False,
+19-94967,False,False,True,False,False,False,
+19-94968,False,False,False,False,True,False,
+19-94975,False,False,False,False,False,False,"Etudes, aménagement, renouvellement urbain, construction"
+19-94976,False,False,True,False,False,False,
+19-94982,False,False,False,False,False,False,EPCI
+19-94984,False,False,True,False,False,False,
+19-94985,False,False,True,False,False,False,
+19-94990,False,False,False,False,True,False,
+19-94996,False,False,False,False,False,False,EPI
+19-94997,False,True,False,False,False,False,
+19-94998,True,False,False,False,False,False,
+19-94999,False,False,False,False,True,False,
+19-95002,True,False,False,False,False,False,
+19-95003,False,False,False,False,True,False,
+19-95008,False,False,False,False,False,False,Services de l'environnement
+19-95010,False,False,False,False,True,False,
+19-95011,False,False,True,False,False,False,
+19-95016,False,False,True,False,False,False,
+19-95017,False,False,False,False,False,False,autre
+19-95018,False,False,False,False,True,False,
+19-95019,False,False,False,False,True,False,
+19-95020,False,False,True,False,False,False,
+19-95033,False,False,True,False,False,False,
+19-95037,False,False,False,False,False,False,autre
+19-95041,False,False,False,False,True,False,
+19-95043,False,False,False,False,True,False,
+19-95046,False,False,True,False,False,False,
+19-95049,False,False,False,False,True,False,
+19-95055,False,False,False,False,False,False,organisme privé gérant une mission de service public
+19-95057,False,False,False,False,False,False,EPS
+19-95058,False,False,True,False,False,False,
+19-95060,True,False,False,False,False,False,
+19-95064,False,False,False,False,False,False,Etablissement Public de santé
+19-95066,False,False,False,False,False,False,EPSCP
+19-95069,False,False,False,False,True,False,
+19-95075,False,False,False,False,False,False,collectivité territoriale
+19-95077,False,False,False,False,False,False,Logement social
+19-95081,False,False,True,False,False,False,
+19-95082,False,False,True,False,False,False,
+19-95084,False,False,False,True,False,False,
+19-95085,True,False,False,False,False,False,
+19-95087,False,False,False,False,True,False,
+19-95088,False,False,False,False,True,False,
+19-95089,False,False,False,True,False,False,
+19-95091,True,False,False,False,False,False,
+19-95092,False,False,False,False,True,False,
+19-95093,False,False,True,False,False,False,
+19-95095,False,False,False,False,True,False,
+19-95097,False,False,False,False,False,False,Etablissement Public Local
+19-95099,False,False,True,False,False,False,
+19-95101,False,False,True,False,False,False,
+19-95107,False,False,False,False,True,False,
+19-95110,False,False,False,True,False,False,
+19-95113,False,False,False,False,False,False,SPLA
+19-95128,False,False,True,False,False,False,
+19-95130,False,False,True,False,False,False,
+19-95131,False,False,False,False,False,False,collectivité territoriale
+19-95136,False,False,True,False,False,False,
+19-95145,False,False,False,False,False,False,autre
+19-95147,False,False,True,False,False,False,
+19-95150,False,False,False,False,True,False,
+19-95160,False,False,True,False,False,False,
+19-95162,False,False,True,False,False,False,
+19-95163,False,False,False,False,True,False,
+19-95166,False,False,True,False,False,False,
+19-95167,False,False,False,False,True,False,
+19-95169,False,False,True,False,False,False,
+19-95170,False,False,True,False,False,False,
+19-95173,False,False,False,False,True,False,
+19-95177,False,False,False,False,False,False,Société Publique Locale (SPL)
+19-95179,False,False,True,False,False,False,
+19-95181,True,False,False,False,False,False,
+19-95184,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-95188,True,False,False,False,False,False,
+19-95192,False,False,False,False,True,False,
+19-95196,False,False,False,False,False,False,Sécurité sociale
+19-95197,False,False,True,False,False,False,
+19-95200,True,False,False,False,False,False,
+19-95201,True,False,False,False,False,False,
+19-95204,False,False,False,False,False,False,Société Publique Locale - Personne morale de droit privé
+19-95206,False,False,True,False,False,False,
+19-95208,False,False,False,False,False,False,Établissement public de santé
+19-95211,False,False,True,False,False,False,
+19-95212,False,False,True,False,False,False,
+19-95213,True,False,False,False,False,False,
+19-95214,False,False,True,False,False,False,
+19-95217,False,False,True,False,False,False,
+19-95220,False,False,False,False,True,False,
+19-95226,False,False,False,False,False,False,Etablissement Public à Caractère Scientifique Culturel et Professionnel
+19-95227,False,False,False,False,False,False,Etablissement public de santé
+19-95231,False,False,True,False,False,False,
+19-95237,False,False,True,False,False,False,
+19-95238,False,False,False,False,False,False,Collectivité territoriale
+19-95240,False,False,True,False,False,False,
+19-95242,False,False,True,False,False,False,
+19-95245,False,False,True,False,False,False,
+19-95246,False,False,False,False,False,False,Organisme consulaire
+19-95247,False,False,True,False,False,False,
+19-95249,False,False,True,False,False,False,
+19-95250,True,False,False,False,False,False,
+19-95251,False,False,False,False,True,False,
+19-95254,False,False,False,False,False,False,autre
+19-95256,False,False,True,False,False,False,
+19-95257,True,False,False,False,False,False,
+19-95260,False,False,True,False,False,False,
+19-95264,False,False,True,False,False,False,
+19-95265,False,False,False,False,False,False,autre
+19-95270,False,False,True,False,False,False,
+19-95273,False,False,False,False,False,False,autre
+19-95274,False,False,False,False,True,False,
+19-95275,False,False,False,False,False,False,autre
+19-95282,False,False,True,False,False,False,
+19-95283,False,False,True,False,False,False,
+19-95284,False,False,True,False,False,False,
+19-95285,False,False,True,False,False,False,
+19-95287,False,False,False,False,True,False,
+19-95291,False,False,False,False,False,False,Etablissement Public de Santé
+19-95295,False,False,True,False,False,False,
+19-95296,False,False,False,False,False,False,Syndicat intercommunal
+19-95305,False,False,False,False,True,False,
+19-95306,True,False,False,False,False,False,
+19-95308,False,False,False,True,False,False,
+19-95311,False,False,False,False,False,False,Santé publique
+19-95313,True,False,False,False,False,False,
+19-95317,False,False,False,False,True,False,
+19-95319,False,False,True,False,False,False,
+19-95321,False,False,False,False,False,False,Etablissement public local
+19-95322,False,False,False,False,False,False,EPCI
+19-95331,False,False,True,False,False,False,
+19-95333,False,False,True,False,False,False,
+19-95334,False,False,True,False,False,False,
+19-95335,False,False,False,False,True,False,
+19-95336,False,False,True,False,False,False,
+19-95338,False,False,False,False,True,False,
+19-95341,False,False,False,False,False,False,SAEM Aménagement
+19-95345,False,False,True,False,False,False,
+19-95348,False,False,False,False,False,False,Organisme de sécurité sociale
+19-95351,False,True,False,False,False,False,
+19-95353,False,False,True,False,False,False,
+19-95356,False,False,True,False,False,False,
+19-95364,False,False,False,False,True,False,
+19-95366,False,False,True,False,False,False,
+19-95368,True,False,False,False,False,False,
+19-95370,False,False,True,False,False,False,
+19-95376,False,False,True,False,False,False,
+19-95379,False,False,True,False,False,False,
+19-95380,False,False,False,False,False,False,Syndicat mixte fermé
+19-95383,False,False,False,False,True,False,
+19-95387,False,False,False,False,True,False,
+19-95388,False,False,False,False,False,False,CHU
+19-95389,True,False,False,False,False,False,
+19-95391,False,False,False,False,True,False,
+19-95395,False,False,True,False,False,False,
+19-95396,False,False,False,False,True,False,
+19-95401,False,False,False,False,False,False,santé
+19-95406,False,False,False,True,False,False,
+19-95407,True,False,False,False,False,False,
+19-95409,False,False,True,False,False,False,
+19-95410,False,False,False,False,False,False,EPS
+19-95414,True,False,False,False,False,False,
+19-95417,False,False,False,False,False,False,autre
+19-95419,False,False,True,False,False,False,
+19-95427,False,False,False,True,False,False,
+19-95428,False,False,False,True,False,False,
+19-95429,False,False,False,False,True,False,
+19-95432,False,False,True,False,False,False,
+19-95436,False,False,False,False,False,False,collectivité territoriale
+19-95440,False,False,False,False,False,False,Centre Hospitalier Universitaire
+19-95451,False,False,True,False,False,False,
+19-95453,False,False,False,False,True,False,
+19-95457,False,False,True,False,False,False,
+19-95458,False,False,False,False,False,False,Commune
+19-95461,False,False,False,False,False,False,Santé
+19-95465,False,False,True,False,False,False,
+19-95467,False,False,True,False,False,False,
+19-95471,False,False,True,False,False,False,
+19-95473,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-95474,False,False,False,False,False,False,centre hospitalier
+19-95475,False,False,False,False,True,False,
+19-95477,False,False,False,True,False,False,
+19-95480,True,False,False,False,False,False,
+19-71992,False,False,False,False,False,False,Environnement
+19-95489,False,False,False,False,True,False,
+19-95491,True,False,False,False,False,False,
+19-95494,True,False,False,False,False,False,
+19-95498,False,False,True,False,False,False,
+19-95502,False,False,True,False,False,False,
+19-95508,False,False,False,False,False,False,EPCI
+19-95512,False,False,False,False,False,False,autre
+19-95516,False,False,True,False,False,False,
+19-95519,False,False,True,False,False,False,
+19-95529,True,False,False,False,False,False,
+19-95530,False,False,True,False,False,False,
+19-95533,False,False,False,False,False,False,Santé
+19-95535,False,False,True,False,False,False,
+19-95538,False,False,False,False,True,False,
+19-95539,False,False,True,False,False,False,
+19-95542,False,False,True,False,False,False,
+19-95552,True,False,False,False,False,False,
+19-95554,False,False,True,False,False,False,
+19-95556,False,False,False,False,False,False,Établissement public de coopération intercommunale
+19-95561,False,False,True,False,False,False,
+19-95565,False,False,False,False,True,False,
+19-95567,False,False,True,False,False,False,
+19-95570,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-95575,False,False,True,False,False,False,
+19-95576,False,False,True,False,False,False,
+19-95578,False,False,True,False,False,False,
+19-95583,False,False,True,False,False,False,
+19-95589,False,False,True,False,False,False,
+19-95591,False,False,False,False,False,False,SAEM
+19-95598,False,False,False,False,False,False,Emploi
+19-95600,False,False,False,False,True,False,
+19-95606,False,False,True,False,False,False,
+19-95607,False,False,False,False,True,False,
+19-95608,False,False,False,True,False,False,
+19-95609,False,False,True,False,False,False,
+19-95613,False,False,False,False,False,False,autre
+19-95616,False,False,True,False,False,False,
+19-95619,False,False,False,False,False,False,Intercommunalité
+19-95620,False,False,True,False,False,False,
+19-95623,False,False,False,False,True,False,
+19-95624,False,False,False,False,True,False,
+19-95625,False,False,True,False,False,False,
+19-95626,False,False,False,False,True,False,
+19-95627,False,False,False,False,True,False,
+19-95628,False,False,False,False,False,False,autre
+19-95631,False,False,True,False,False,False,
+19-95645,False,False,False,False,True,False,
+19-95646,False,False,False,False,False,False,SATT
+19-95648,False,False,True,False,False,False,
+19-95649,False,False,False,False,True,False,
+19-95652,True,False,False,False,False,False,
+19-95654,False,False,False,False,False,False,Santé
+19-95656,False,False,True,False,False,False,
+19-95657,False,False,False,False,False,False,Société Publique Locale
+19-95659,False,False,True,False,False,False,
+19-95660,True,False,False,False,False,False,
+19-95664,False,False,False,False,True,False,
+19-95665,True,False,False,False,False,False,
+19-95668,False,False,False,False,False,False,Personne morale de droit privé
+19-95670,False,False,False,False,True,False,
+19-95672,False,False,False,False,False,False,Groupement Hospitalier de Territoire
+19-95677,True,False,False,False,False,False,
+19-95678,False,False,True,False,False,False,
+19-95679,False,False,False,False,True,False,
+19-95688,False,False,False,False,False,False,Etablissement Public de Santé
+19-95692,False,False,False,False,True,False,
+19-95693,False,False,True,False,False,False,
+19-95709,False,False,True,False,False,False,
+19-95711,False,False,True,False,False,False,
+19-95713,False,False,True,False,False,False,
+19-95723,False,False,True,False,False,False,
+19-95727,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-95730,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+19-95732,False,False,True,False,False,False,
+19-95733,False,False,False,True,False,False,
+19-95734,False,False,False,False,True,False,
+19-95735,False,False,True,False,False,False,
+19-95737,True,False,False,False,False,False,
+19-95738,False,False,False,False,True,False,
+19-43958,True,False,False,False,False,False,
+19-95743,False,False,False,False,True,False,
+19-95747,False,False,True,False,False,False,
+19-95748,False,False,False,False,False,False,autre
+19-95756,False,False,False,False,True,False,
+19-95759,False,False,False,False,True,False,
+19-95761,False,False,False,False,False,False,Groupement d'Intérêt Economique
+19-95762,False,False,True,False,False,False,
+19-95764,True,False,False,False,False,False,
+19-95771,False,False,False,False,True,False,
+19-95775,False,False,False,False,True,False,
+19-95780,False,False,False,False,False,False,Etablissement public
+19-95781,False,False,True,False,False,False,
+19-95784,False,False,False,False,False,False,SEM
+19-95785,False,False,False,False,False,False,aménagement
+19-95786,False,False,False,False,False,False,Enseignement supérieur
+19-95793,False,False,True,False,False,False,
+19-95796,False,False,True,False,False,False,
+19-63623,True,False,False,False,False,False,
+19-95801,False,False,False,False,True,False,
+19-95803,False,False,False,False,True,False,
+19-95808,False,False,False,False,False,False,santé
+19-95809,False,False,True,False,False,False,
+19-95812,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANTE
+19-95814,False,False,True,False,False,False,
+19-95819,False,False,True,False,False,False,
+19-95826,False,False,False,False,False,False,université
+19-95828,False,False,True,False,False,False,
+19-95829,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-95834,False,False,True,False,False,False,
+19-95846,False,False,False,False,True,False,
+19-95857,False,False,True,False,False,False,
+19-95866,False,False,True,False,False,False,
+19-95869,False,False,False,False,True,False,
+19-95871,False,False,False,False,True,False,
+19-95874,True,False,False,False,False,False,
+19-95876,False,False,True,False,False,False,
+19-95882,False,False,True,False,False,False,
+19-95884,False,False,True,False,False,False,
+19-41001,True,False,False,False,False,False,
+19-95886,False,False,False,False,True,False,
+19-95887,False,False,False,False,False,False,syndicat mixte
+19-95888,False,False,True,False,False,False,
+19-95889,True,False,False,False,False,False,
+19-95892,False,False,True,False,False,False,
+19-95893,False,False,False,False,False,False,EPCI
+19-95895,False,False,False,False,True,False,
+19-95898,False,False,True,False,False,False,
+19-95899,False,False,False,False,False,False,établissement public de santé
+19-95907,False,False,False,False,True,False,
+19-95919,False,False,True,False,False,False,
+19-95921,False,False,True,False,False,False,
+19-95929,False,False,True,False,False,False,
+19-95930,False,False,False,False,False,False,EPIC
+19-95931,False,False,False,False,True,False,
+19-95932,False,False,False,False,False,False,autre
+19-95933,False,False,False,False,False,False,autre
+19-95935,False,False,False,False,False,False,autre
+19-95945,False,False,False,False,False,False,université
+19-95951,False,False,False,False,True,False,
+19-95952,False,False,False,False,True,False,
+19-95954,False,False,True,False,False,False,
+19-95956,False,False,False,False,True,False,
+19-95958,False,False,False,False,True,False,
+19-95960,False,False,False,False,True,False,
+19-95966,True,False,False,False,False,False,
+19-95967,False,False,True,False,False,False,
+19-95970,False,False,False,False,False,False,Etablissement d'enseignement supérieur
+19-95973,False,False,True,False,False,False,
+19-95975,False,False,False,False,False,False,Centre Hospitalier
+19-95976,False,False,True,False,False,False,
+19-95980,False,False,False,False,True,False,
+19-95982,False,False,True,False,False,False,
+19-95983,False,False,False,False,True,False,
+19-95987,True,False,False,False,False,False,
+19-95989,False,False,False,False,False,False,Santé
+19-95996,True,False,False,False,False,False,
+19-95997,False,False,False,False,True,False,
+19-95999,False,False,False,False,False,False,EPIC
+19-96000,False,False,True,False,False,False,
+19-96005,False,False,False,False,False,False,Santé
+19-96007,False,False,True,False,False,False,
+19-96009,False,False,False,False,True,False,
+19-96010,True,False,False,False,False,False,
+19-96012,False,False,False,False,False,False,Etablissement public de santé
+19-96016,False,False,True,False,False,False,
+19-86084,True,False,False,False,False,False,
+19-96018,False,False,False,False,True,False,
+19-96020,False,False,False,False,True,False,
+19-96021,False,False,False,False,True,False,
+19-96027,False,False,False,False,True,False,
+19-46155,True,False,False,False,False,False,
+19-96034,False,False,True,False,False,False,
+19-96036,False,False,True,False,False,False,
+19-96038,False,False,True,False,False,False,
+19-96040,False,False,True,False,False,False,
+19-96046,False,False,False,False,True,False,
+19-96048,False,False,False,False,True,False,
+19-50288,False,False,True,False,False,False,
+19-96050,False,False,True,False,False,False,
+19-96051,False,False,False,False,True,False,
+19-66204,True,False,False,False,False,False,
+19-96056,False,False,True,False,False,False,
+19-96060,False,False,True,False,False,False,
+19-96064,False,False,True,False,False,False,
+19-96067,False,False,False,False,False,False,autre
+19-96070,False,False,True,False,False,False,
+19-96071,False,False,False,False,False,False,autre
+19-96075,False,False,True,False,False,False,
+19-96076,False,False,False,False,False,False,Organisme de sécurité sociale
+19-96077,False,False,True,False,False,False,
+19-96078,False,False,True,False,False,False,
+19-96079,False,False,True,False,False,False,
+19-96087,False,False,True,False,False,False,
+19-96088,False,False,False,False,False,False,OHP de puteaux
+19-96091,False,False,False,False,True,False,
+19-96093,False,False,False,False,True,False,
+19-96095,False,False,False,False,True,False,
+19-96101,False,False,False,False,True,False,
+19-96107,False,False,True,False,False,False,
+19-96108,False,False,False,False,True,False,
+19-96110,False,False,False,False,False,False,Organisme de sécurité sociale
+19-96112,False,False,False,False,True,False,
+19-96114,False,False,False,False,True,False,
+19-96115,False,False,False,False,False,False,Établissement public de santé
+19-96116,False,False,False,False,False,False,Etablissement public d'aménagement
+19-96118,False,False,True,False,False,False,
+19-96119,False,False,True,False,False,False,
+19-96131,False,False,False,False,False,False,Commune
+19-96133,False,False,False,False,True,False,
+19-96136,False,False,False,False,False,False,SOCIETE HLM
+19-96137,False,False,False,False,False,False,Syndicat mixte
+19-96138,False,False,False,False,False,False,Santé
+19-64285,True,False,False,False,False,False,
+19-96145,False,False,True,False,False,False,
+19-96146,False,False,False,False,False,False,autre
+19-96148,False,False,False,False,True,False,
+19-96149,False,False,True,False,False,False,
+19-96151,False,False,False,False,True,False,
+19-96157,False,False,False,False,False,False,autre
+19-96158,False,False,False,False,True,False,
+19-96160,False,False,True,False,False,False,
+19-96162,False,False,True,False,False,False,
+19-96167,False,False,False,False,True,False,
+19-96174,False,False,True,False,False,False,
+19-96182,False,False,True,False,False,False,
+19-96186,False,False,False,False,False,False,Syndicat Intercommunal
+19-96187,False,False,False,False,True,False,
+19-96189,False,False,True,False,False,False,
+19-96190,False,False,False,False,True,False,
+19-96191,False,False,False,False,True,False,
+19-96193,False,False,False,False,False,False,Organisme privé gestionnaire d'une mission de service public
+19-96195,False,False,False,False,True,False,
+19-96197,False,False,False,False,True,False,
+19-96202,False,False,False,False,False,False,Régulation des marchés financiers
+19-96204,False,False,True,False,False,False,
+19-96206,False,False,False,False,True,False,
+19-96209,False,False,True,False,False,False,
+19-96212,False,False,False,False,False,False,Agence nationale de santé constituée sous la forme d'un groupement d'intérêt public
+19-96215,False,False,False,False,False,False,Etablissement public administratif sous tutelle du MESRI
+19-96216,False,False,False,False,False,False,Etablissement public de l'Etat dans le domaine de la santé
+19-96218,False,False,False,False,True,False,
+19-96222,False,False,False,False,True,False,
+19-96226,False,False,True,False,False,False,
+19-96228,False,False,False,True,False,False,
+19-96229,False,False,False,False,True,False,
+19-96231,False,False,True,False,False,False,
+19-96236,False,False,False,False,True,False,
+19-96237,False,False,False,False,False,False,Société d'économie mixte
+19-158,False,False,True,False,False,False,
+19-96247,False,False,False,False,False,False,EPCI
+19-96255,False,False,False,False,False,False,SNCF IMMOBILIER
+19-96270,False,False,True,False,False,False,
+19-96271,False,False,True,False,False,False,
+19-96272,False,False,True,False,False,False,
+19-96276,False,False,False,False,True,False,
+19-96279,True,False,False,False,False,False,
+19-96280,False,False,True,False,False,False,
+19-96281,False,False,True,False,False,False,
+19-96283,False,False,True,False,False,False,
+19-96285,False,False,True,False,False,False,
+19-96291,False,False,True,False,False,False,
+19-96296,False,False,True,False,False,False,
+19-96297,False,False,False,False,True,False,
+19-96300,False,False,False,False,True,False,
+19-96306,False,False,False,False,True,False,
+19-96307,False,False,False,False,True,False,
+19-96311,False,False,True,False,False,False,
+19-96312,True,False,False,False,False,False,
+19-96313,False,False,True,False,False,False,
+19-96314,False,False,False,False,True,False,
+19-96317,False,False,True,False,False,False,
+19-82653,True,False,False,False,False,False,
+19-96320,True,False,False,False,False,False,
+19-96321,False,False,True,False,False,False,
+19-96322,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-96328,False,False,False,False,True,False,
+19-96329,False,False,True,False,False,False,
+19-96333,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-96334,False,False,False,False,True,False,
+19-96337,False,False,False,False,False,False,OPH
+19-96342,False,False,True,False,False,False,
+19-96346,False,False,True,False,False,False,
+19-96348,False,False,True,False,False,False,
+19-96350,False,False,False,False,False,False,Protection sociale
+19-96352,True,False,False,False,False,False,
+19-96353,False,False,False,True,False,False,
+19-96355,False,False,False,False,True,False,
+19-96357,True,False,False,False,False,False,
+19-96359,False,False,False,False,False,False,Communauté d'Agglomération
+19-70282,True,False,False,False,False,False,
+19-96366,False,False,False,False,False,False,autre
+19-96367,False,False,True,False,False,False,
+19-96368,False,False,True,False,False,False,
+19-96370,False,False,True,False,False,False,
+19-96375,False,False,False,False,True,False,
+19-96382,False,False,True,False,False,False,
+19-96387,False,False,False,True,False,False,
+19-96389,False,False,True,False,False,False,
+19-96392,False,False,False,False,True,False,
+19-96395,True,False,False,False,False,False,
+19-96396,False,False,True,False,False,False,
+19-96399,False,False,True,False,False,False,
+19-96407,True,False,False,False,False,False,
+19-96414,False,False,False,False,False,False,SAEM
+19-96415,False,False,False,False,False,False,Établissement de santé
+19-96416,False,False,True,False,False,False,
+19-96420,False,False,False,False,True,False,
+19-96421,False,False,False,False,False,False,Entreprise sociale pour l'habitat
+19-96423,False,False,True,False,False,False,
+19-96424,False,False,True,False,False,False,
+19-96425,False,False,False,False,False,False,SIVOM
+19-96428,False,False,True,False,False,False,
+19-96430,False,False,True,False,False,False,
+19-96443,False,False,False,True,False,False,
+19-96446,False,False,True,False,False,False,
+19-96447,False,False,False,False,True,False,
+19-96449,False,False,True,False,False,False,
+19-96453,False,False,True,False,False,False,
+19-96454,False,False,False,False,True,False,
+19-96455,False,False,True,False,False,False,
+19-96459,False,False,False,False,True,False,
+19-96460,False,False,True,False,False,False,
+19-96461,False,False,True,False,False,False,
+19-96462,False,False,True,False,False,False,
+19-96465,False,False,True,False,False,False,
+19-96467,False,False,False,False,True,False,
+19-96468,False,False,True,False,False,False,
+19-96469,False,False,True,False,False,False,
+19-96470,False,False,True,False,False,False,
+19-96471,False,False,True,False,False,False,
+19-96472,False,False,False,False,False,False,Collectivité territoriale
+19-96475,False,False,False,False,True,False,
+19-96479,False,False,True,False,False,False,
+19-96481,False,False,True,False,False,False,
+19-96483,False,False,False,False,True,False,
+19-96487,False,False,False,False,True,False,
+19-96490,False,False,True,False,False,False,
+19-96492,False,False,False,False,True,False,
+19-96496,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation de l'espace public"
+19-96498,False,False,True,False,False,False,
+19-96499,False,False,True,False,False,False,
+19-96500,False,False,False,True,False,False,
+19-96502,False,False,False,False,True,False,
+19-96505,False,False,True,False,False,False,
+19-96508,False,False,False,False,False,False,Aménagement et construction
+19-96514,False,False,True,False,False,False,
+19-96516,False,True,False,False,False,False,
+19-96517,False,False,True,False,False,False,
+19-96519,False,False,True,False,False,False,
+19-96520,False,False,False,True,False,False,
+19-96521,False,False,False,False,True,False,
+19-96522,False,False,False,False,False,False,"Aménagement, gestion, promotion, animation du territoire"
+19-96528,False,False,False,False,True,False,
+19-96530,False,False,False,False,True,False,
+19-96531,False,False,False,False,False,False,Hôpital
+19-96532,True,False,False,False,False,False,
+19-96538,False,False,True,False,False,False,
+19-96539,False,False,False,False,False,False,EPCI
+19-96548,False,False,False,False,False,False,autre
+19-96549,False,False,True,False,False,False,
+19-96552,False,False,True,False,False,False,
+19-96557,False,False,True,False,False,False,
+19-96561,False,False,False,False,False,False,Syndicat mixte fermé à vocation unique
+19-96567,False,False,False,False,True,False,
+19-96574,False,False,True,False,False,False,
+19-96576,False,False,False,False,True,False,
+19-96587,False,False,False,False,True,False,
+19-96593,False,False,False,False,True,False,
+19-96595,True,False,False,False,False,False,
+19-96597,False,False,False,True,False,False,
+19-96602,False,False,True,False,False,False,
+19-96606,False,False,False,False,False,False,SA d'HLM
+19-96607,False,False,False,False,True,False,
+19-96612,False,False,True,False,False,False,
+19-96619,False,False,False,False,False,False,autre
+19-96624,False,False,True,False,False,False,
+19-96627,True,False,False,False,False,False,
+19-96628,False,False,True,False,False,False,
+19-96630,False,False,True,False,False,False,
+19-96632,False,False,True,False,False,False,
+19-96633,False,False,False,False,False,False,Société Publique Locale
+19-96634,False,False,True,False,False,False,
+19-96645,False,False,False,False,False,False,EPS
+19-96646,False,False,False,False,True,False,
+19-96651,False,False,True,False,False,False,
+19-96652,False,False,True,False,False,False,
+19-96659,False,False,False,False,False,False,Société Anonyme d'HLM
+19-96663,False,False,True,False,False,False,
+19-96667,False,False,False,False,True,False,
+19-96669,False,False,False,False,False,False,Collectivité territoriale
+19-96678,False,False,True,False,False,False,
+19-96679,False,False,False,False,False,False,Groupement d'intérêt économique
+19-96680,False,False,False,False,False,False,COLLECTIVITE
+19-96685,False,False,True,False,False,False,
+19-96687,False,False,True,False,False,False,
+19-96693,False,False,True,False,False,False,
+19-96696,False,False,False,False,False,False,autre
+19-96698,False,False,True,False,False,False,
+19-96703,False,False,True,False,False,False,
+19-96708,False,False,False,False,True,False,
+19-96709,False,False,False,False,True,False,
+19-96710,False,False,True,False,False,False,
+19-96711,False,False,False,False,False,False,centre hospitalier
+19-96712,False,False,True,False,False,False,
+19-96716,False,False,False,False,False,False,collectivité territoriale
+19-96725,False,False,True,False,False,False,
+19-96732,False,False,True,False,False,False,
+19-96733,False,False,False,False,False,False,Santé
+19-96736,False,False,False,False,False,False,EHPAD MEDICO SOCIAL
+19-96738,False,False,False,False,True,False,
+19-96739,False,False,True,False,False,False,
+19-96741,False,False,False,False,True,False,
+19-96743,False,False,True,False,False,False,
+19-96744,False,False,False,False,False,False,Etablissement public de santé
+19-96745,False,False,False,False,False,False,EPSCP
+19-96749,False,False,True,False,False,False,
+19-96750,False,False,True,False,False,False,
+19-96752,False,False,True,False,False,False,
+19-96753,False,False,False,False,True,False,
+19-96756,False,False,False,False,True,False,
+19-96757,False,False,False,False,False,False,Etablissement public de santé
+19-96758,False,False,False,False,False,False,centre hospitalier
+19-96759,False,False,True,False,False,False,
+19-96760,False,False,False,False,False,False,Communauté de Communes
+19-96761,False,False,True,False,False,False,
+19-96763,True,False,False,False,False,False,
+19-96764,False,False,False,False,True,False,
+19-96769,False,False,False,False,True,False,
+19-96770,True,False,False,False,False,False,
+19-96771,False,False,False,False,False,False,Hospices Civils de Beaune
+19-96774,False,False,False,True,False,False,
+19-96776,False,False,False,False,False,False,Régime général de la sécurité sociale
+19-96777,True,False,False,False,False,False,
+19-96778,False,False,False,False,False,False,Collectivité territoriale
+19-96780,True,False,False,False,False,False,
+19-96781,False,False,False,False,True,False,
+19-96786,False,False,False,False,False,False,CCI Réunion
+19-96790,True,False,False,False,False,False,
+19-96795,False,False,False,False,True,False,
+19-96797,True,False,False,False,False,False,
+19-96798,False,False,True,False,False,False,
+19-96799,False,False,False,False,True,False,
+19-96803,False,False,False,False,False,False,Etablissement de santé
+19-96811,False,False,True,False,False,False,
+19-96813,False,False,False,False,True,False,
+19-96814,False,False,False,True,False,False,
+19-96816,True,False,False,False,False,False,
+19-96820,False,False,False,False,False,False,collectivité territoriale
+19-96822,False,False,True,False,False,False,
+19-96823,False,False,True,False,False,False,
+19-96824,False,False,True,False,False,False,
+19-96825,False,False,False,False,True,False,
+19-96828,False,False,True,False,False,False,
+19-96830,False,False,True,False,False,False,
+19-96831,False,False,True,False,False,False,
+19-96833,False,False,False,False,True,False,
+19-96838,False,False,True,False,False,False,
+19-96841,False,False,True,False,False,False,
+19-96844,False,False,False,False,False,False,Etablissement public de santé
+19-96845,False,False,True,False,False,False,
+19-96850,False,False,True,False,False,False,
+19-96855,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-96857,False,False,True,False,False,False,
+19-96860,False,False,False,False,True,False,
+19-96861,False,False,False,False,True,False,
+19-96868,False,False,False,False,True,False,
+19-96869,False,False,False,False,False,False,Commune
+19-96870,False,False,False,False,False,False,SEM
+19-96873,False,False,True,False,False,False,
+19-96874,False,False,True,False,False,False,
+19-96877,False,False,False,False,True,False,
+19-96878,False,False,False,False,True,False,
+19-96886,False,False,False,False,False,False,EPCI
+19-96891,False,False,False,False,True,False,
+19-96899,False,False,True,False,False,False,
+19-96901,False,False,True,False,False,False,
+19-96908,False,False,True,False,False,False,
+19-96911,False,False,True,False,False,False,
+19-96912,False,False,True,False,False,False,
+19-96919,False,True,False,False,False,False,
+19-96924,False,False,False,False,False,False,Etablissement public de santé
+19-96952,False,False,False,False,True,False,
+19-96953,False,False,True,False,False,False,
+19-96954,False,False,True,False,False,False,
+19-96963,False,False,True,False,False,False,
+19-96964,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+19-96965,False,False,False,False,False,False,Etablissement Public Administratif
+19-96969,False,False,True,False,False,False,
+19-96972,False,False,True,False,False,False,
+19-96975,False,False,False,False,False,False,Régulation de l'Energie
+19-96978,True,False,False,False,False,False,
+19-96991,False,False,True,False,False,False,
+19-97006,False,False,True,False,False,False,
+19-97010,False,False,False,False,False,False,SEM
+19-97012,False,False,False,False,False,False,SEM
+19-97018,False,False,True,False,False,False,
+19-97048,False,False,False,False,True,False,
+19-97049,False,False,True,False,False,False,
+19-59,False,False,False,False,False,False,Syndicat Intercommunal
+19-97062,False,False,False,False,False,False,Organisme privé gérant un service public
+19-97063,False,False,False,False,False,False,Enseignement supérieur et recherche
+19-97065,False,False,False,False,True,False,
+19-97069,False,False,False,False,True,False,
+19-97071,False,False,True,False,False,False,
+19-97074,False,False,False,False,False,False,Santé
+19-97080,False,False,False,False,True,False,
+19-97085,False,False,True,False,False,False,
+19-97089,False,False,False,False,True,False,
+19-97095,False,False,True,False,False,False,
+19-97096,False,False,True,False,False,False,
+19-97105,False,False,False,False,False,False,Santé
+19-97106,False,False,False,False,False,False,Organisme privé de sécurité sociale
+19-97109,False,False,False,False,True,False,
+19-97111,False,False,True,False,False,False,
+19-97117,False,False,False,False,True,False,
+19-97119,False,False,True,False,False,False,
+19-97120,True,False,False,False,False,False,
+19-97129,False,False,True,False,False,False,
+19-97131,True,False,False,False,False,False,
+19-97132,False,False,True,False,False,False,
+19-97136,False,False,True,False,False,False,
+19-97137,False,False,True,False,False,False,
+19-97141,True,False,False,False,False,False,
+19-97149,False,False,False,False,False,False,collectivité territoriale
+19-97150,False,False,False,False,False,False,Commune
+19-97151,False,False,False,False,True,False,
+19-97153,False,False,True,False,False,False,
+19-97159,False,False,True,False,False,False,
+19-97164,False,False,True,False,False,False,
+19-97171,False,False,True,False,False,False,
+19-97174,False,False,False,False,False,False,autre
+19-97177,False,False,True,False,False,False,
+19-97180,False,False,False,False,False,False,Association
+19-97187,False,False,False,False,False,False,Organisme de droit public
+19-97189,False,False,False,False,True,False,
+19-97198,False,False,False,False,False,False,EPCI  : Communauté d'Agglomération
+19-97200,False,False,True,False,False,False,
+19-97207,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-97208,False,False,False,False,True,False,
+19-97211,False,False,True,False,False,False,
+19-97212,False,False,True,False,False,False,
+19-97215,False,False,False,False,False,False,association
+19-97217,False,False,False,False,True,False,
+19-97218,False,False,False,True,False,False,
+19-97221,False,False,True,False,False,False,
+19-97225,True,False,False,False,False,False,
+19-97226,False,False,True,False,False,False,
+19-97227,False,False,False,False,False,False,EPCI
+19-97228,False,False,True,False,False,False,
+19-97232,True,False,False,False,False,False,
+19-97236,False,False,True,False,False,False,
+19-97240,False,False,False,False,False,False,Office public de l'habitat
+19-97249,False,False,True,False,False,False,
+19-97250,False,False,False,False,False,False,Établissements publics de santé
+19-97251,False,False,False,False,True,False,
+19-97252,False,False,True,False,False,False,
+19-97257,False,False,False,False,True,False,
+19-97258,True,False,False,False,False,False,
+19-97260,False,False,False,False,True,False,
+19-97264,False,False,False,False,False,False,EPS
+19-97268,False,False,False,False,False,False,CENTRE HOSPITALIER DE PERPIGNAN
+19-97270,False,False,False,False,False,False,Logements et équipements collectifs
+19-97273,True,False,False,False,False,False,
+19-97275,False,False,False,False,True,False,
+19-97276,False,False,True,False,False,False,
+19-97278,False,False,True,False,False,False,
+19-97279,False,False,False,False,True,False,
+19-97281,True,False,False,False,False,False,
+19-97284,False,False,True,False,False,False,
+19-97285,False,False,False,False,False,False,Centre Hospitalier
+19-97289,False,False,True,False,False,False,
+19-97292,True,False,False,False,False,False,
+19-97293,False,False,True,False,False,False,
+19-97299,False,False,True,False,False,False,
+19-97301,False,False,True,False,False,False,
+19-97307,False,False,True,False,False,False,
+19-97311,False,False,False,False,True,False,
+19-97313,False,False,False,False,True,False,
+19-97317,False,False,True,False,False,False,
+19-97318,True,False,False,False,False,False,
+19-97319,True,False,False,False,False,False,
+19-97321,False,False,False,False,False,False,Etablissement public de coopération intercommunale (EPCI)
+19-97329,False,False,False,False,True,False,
+19-97330,False,False,False,False,True,False,
+19-97337,False,False,True,False,False,False,
+19-97338,False,False,False,False,True,False,
+19-97342,True,False,False,False,False,False,
+19-97346,False,False,False,False,False,False,Etablissement public de coopération intercommunal.
+19-97347,False,False,False,False,True,False,
+19-97348,False,False,True,False,False,False,
+19-97351,False,False,False,False,False,False,Santé
+19-97358,False,False,True,False,False,False,
+19-97359,False,False,False,False,True,False,
+19-97360,False,False,True,False,False,False,
+19-97362,False,False,False,False,True,False,
+19-97363,False,False,False,False,True,False,
+19-97368,False,False,False,True,False,False,
+19-97373,False,False,True,False,False,False,
+19-97374,False,False,True,False,False,False,
+19-97377,False,False,False,False,False,False,autre
+19-97379,False,False,False,False,False,False,Association loi 1901
+19-97381,False,False,False,False,True,False,
+19-97383,False,False,False,False,True,False,
+19-97386,True,False,False,False,False,False,
+19-97388,False,False,False,False,True,False,
+19-97389,False,False,True,False,False,False,
+19-97393,False,False,False,False,True,False,
+19-97396,False,False,False,False,True,False,
+19-97398,True,False,False,False,False,False,
+19-97400,False,False,True,False,False,False,
+19-97408,False,False,False,False,False,False,Etablissement public local
+19-97411,False,False,False,False,True,False,
+19-97413,False,False,False,False,False,False,Etablissement public de santé
+19-97418,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-97420,False,False,True,False,False,False,
+19-97421,False,False,False,False,True,False,
+19-97426,False,False,False,False,False,False,EPCI
+19-97430,False,False,False,False,True,False,
+19-97434,False,False,False,False,False,False,Santé
+19-97436,False,False,True,False,False,False,
+19-97438,False,False,True,False,False,False,
+19-97439,False,False,False,False,True,False,
+19-97442,False,False,True,False,False,False,
+19-97444,False,False,True,False,False,False,
+19-97447,False,False,False,False,True,False,
+19-97448,False,False,True,False,False,False,
+19-97457,False,False,False,False,False,False,Établissement public territorial
+19-97458,False,False,True,False,False,False,
+19-97461,False,False,False,False,True,False,
+19-97462,True,False,False,False,False,False,
+19-97470,True,False,False,False,False,False,
+19-97471,False,False,False,False,True,False,
+19-97476,False,False,True,False,False,False,
+19-97481,False,False,True,False,False,False,
+19-97484,False,False,True,False,False,False,
+19-97487,False,False,False,False,True,False,
+19-97495,False,False,False,False,True,False,
+19-97497,False,False,False,False,True,False,
+19-97503,False,False,False,False,True,False,
+19-97504,False,False,False,True,False,False,
+19-97506,False,False,False,False,True,False,
+19-97514,False,False,True,False,False,False,
+19-97516,False,False,False,False,False,False,Fédération sportive (Association)
+19-97521,False,False,False,False,False,False,Syndicat mixte
+19-97526,False,False,False,False,False,False,centre hospitalier
+19-97529,False,False,True,False,False,False,
+19-97532,False,False,False,False,False,False,EPCI
+19-97535,False,False,False,True,False,False,
+19-97536,False,False,False,False,False,False,autre
+19-97543,False,False,True,False,False,False,
+19-97555,False,False,False,False,False,False,Pôle Métropolitain
+19-97556,False,False,True,False,False,False,
+19-97557,False,False,True,False,False,False,
+19-97561,True,False,False,False,False,False,
+19-97562,False,False,False,False,False,False,Établissement de santé
+19-97563,True,False,False,False,False,False,
+19-97564,False,False,False,False,True,False,
+19-97566,False,False,True,False,False,False,
+19-97572,False,False,False,False,False,False,Établissement public de santé
+19-97577,False,False,True,False,False,False,
+19-97579,False,False,True,False,False,False,
+19-97580,False,False,False,False,True,False,
+19-97581,False,False,False,False,True,False,
+19-97583,False,False,False,False,True,False,
+19-97586,False,True,False,False,False,False,
+19-97587,True,False,False,False,False,False,
+19-97590,False,False,True,False,False,False,
+19-97599,False,False,False,False,True,False,
+19-97600,False,False,False,False,False,False,GIP
+19-97605,False,False,True,False,False,False,
+19-97609,False,False,True,False,False,False,
+19-97612,False,False,False,False,True,False,
+19-97613,False,False,False,False,False,False,Établissement Public de Coopération Intercommunale
+19-97614,False,False,True,False,False,False,
+19-97615,False,False,True,False,False,False,
+19-97616,False,False,False,False,False,False,Société Publique Locale
+19-97619,False,False,True,False,False,False,
+19-97624,False,False,False,False,True,False,
+19-97626,False,False,False,False,False,False,Groupement de Coopération Sanitaire
+19-97627,False,False,True,False,False,False,
+19-97632,False,False,True,False,False,False,
+19-97641,False,False,False,True,False,False,
+19-97645,False,False,True,False,False,False,
+19-97648,False,False,True,False,False,False,
+19-97652,False,False,True,False,False,False,
+19-97658,False,False,True,False,False,False,
+19-97659,True,False,False,False,False,False,
+19-97660,False,False,True,False,False,False,
+19-97663,False,False,False,False,True,False,
+19-97668,False,False,True,False,False,False,
+19-97670,False,False,False,False,True,False,
+19-97673,False,False,False,False,True,False,
+19-97674,True,False,False,False,False,False,
+19-97683,False,False,False,False,True,False,
+19-97684,False,False,True,False,False,False,
+19-97686,False,False,False,False,True,False,
+19-97692,False,False,False,True,False,False,
+19-97693,False,False,False,False,False,False,ORGANSIME PRIVE CHARGE DE LA MISSION DE SERVICE PUBLIC
+19-97698,False,False,True,False,False,False,
+19-97699,False,False,True,False,False,False,
+19-97700,False,False,False,False,True,False,
+19-97701,False,False,True,False,False,False,
+19-97704,False,False,True,False,False,False,
+19-97706,True,False,False,False,False,False,
+19-97710,False,False,True,False,False,False,
+19-97714,False,False,False,False,True,False,
+19-97716,False,False,False,False,True,False,
+19-97726,False,False,True,False,False,False,
+19-97727,False,False,False,False,False,False,Santé
+19-97730,False,False,True,False,False,False,
+19-97732,False,False,False,False,True,False,
+19-97736,False,False,True,False,False,False,
+19-97738,False,False,True,False,False,False,
+19-97740,False,True,False,False,False,False,
+19-97742,False,False,False,False,True,False,
+19-97744,False,False,False,False,True,False,
+19-97747,False,False,False,False,True,False,
+19-97750,False,False,True,False,False,False,
+19-97752,False,False,True,False,False,False,
+19-97763,False,False,False,False,False,False,Emploi
+19-1716,False,False,True,False,False,False,
+19-97765,False,False,True,False,False,False,
+19-97767,False,False,True,False,False,False,
+19-97771,False,False,False,False,False,False,Établissement public à caractère scientifique et technologique
+19-97772,False,False,False,False,True,False,
+19-97775,False,False,False,False,False,False,commune
+19-97776,False,True,False,False,False,False,
+19-97777,False,False,True,False,False,False,
+19-97778,False,False,True,False,False,False,
+19-97780,False,False,True,False,False,False,
+19-97781,False,False,True,False,False,False,
+19-97785,False,False,False,False,True,False,
+19-97786,False,False,True,False,False,False,
+19-97795,False,False,False,False,False,False,Immobilier et Aménagement
+19-97797,False,False,False,False,True,False,
+19-97798,False,False,False,False,True,False,
+19-97799,False,False,True,False,False,False,
+19-97800,False,False,False,False,False,False,autre
+19-97802,False,False,False,False,False,False,autre
+19-97811,False,False,False,False,True,False,
+19-97813,False,False,False,False,True,False,
+19-97815,False,False,False,False,True,False,
+19-97824,False,False,False,False,True,False,
+19-97829,False,False,True,False,False,False,
+19-97831,False,False,True,False,False,False,
+19-97841,True,False,False,False,False,False,
+19-97845,True,False,False,False,False,False,
+19-97848,False,False,False,False,True,False,
+19-97852,False,False,True,False,False,False,
+19-97859,False,False,True,False,False,False,
+19-91352,True,False,False,False,False,False,
+19-97863,False,False,True,False,False,False,
+19-97875,False,False,True,False,False,False,
+19-97876,False,False,True,False,False,False,
+19-97878,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-97883,False,False,True,False,False,False,
+19-97889,False,False,True,False,False,False,
+19-97890,False,False,True,False,False,False,
+19-97892,False,False,True,False,False,False,
+19-97893,False,False,True,False,False,False,
+19-97895,False,False,True,False,False,False,
+19-97898,False,False,False,False,False,False,Syndicat
+19-97901,False,False,False,False,True,False,
+19-97905,False,False,False,False,True,False,
+19-97906,False,False,False,False,True,False,
+19-97912,False,False,False,False,True,False,
+19-97914,True,False,False,False,False,False,
+19-97917,True,False,False,False,False,False,
+19-97918,False,False,True,False,False,False,
+19-97921,False,False,False,False,False,False,Etablissement Public de Santé
+19-97924,False,False,False,False,False,False,collectivité territoriale
+19-97927,False,False,False,True,False,False,
+19-97929,False,False,False,False,False,False,Enseignement supérieur et recherche
+19-97930,False,False,False,True,False,False,
+19-97933,False,False,True,False,False,False,
+19-97934,False,False,True,False,False,False,
+19-97937,False,False,True,False,False,False,
+19-97941,False,False,False,False,False,False,ASSOCIATION
+19-97943,False,False,True,False,False,False,
+19-97947,True,False,False,False,False,False,
+19-97948,False,False,True,False,False,False,
+19-97956,False,False,True,False,False,False,
+19-97957,False,False,False,False,True,False,
+19-97963,False,False,True,False,False,False,
+19-8052,False,False,True,False,False,False,
+19-97970,False,True,False,False,False,False,
+19-97977,False,False,True,False,False,False,
+19-97980,False,False,True,False,False,False,
+19-97982,False,False,True,False,False,False,
+19-97984,False,False,False,False,True,False,
+19-97988,False,False,True,False,False,False,
+19-97989,False,False,False,False,True,False,
+19-97991,False,False,True,False,False,False,
+19-97996,False,False,False,False,True,False,
+19-98001,False,False,False,False,True,False,
+19-98012,False,False,True,False,False,False,
+19-98014,False,False,False,False,True,False,
+19-98018,False,False,False,False,False,False,Etablissement public territorial
+19-98019,False,False,True,False,False,False,
+19-98020,False,False,False,False,False,False,Centrale d'achat informatique des Régions
+19-98021,False,False,False,True,False,False,
+19-98028,False,False,True,False,False,False,
+19-98029,False,False,True,False,False,False,
+19-98030,False,False,False,False,True,False,
+19-98036,False,False,True,False,False,False,
+19-98038,False,False,True,False,False,False,
+19-98039,False,False,True,False,False,False,
+19-98040,False,False,True,False,False,False,
+19-98041,False,False,True,False,False,False,
+19-98043,False,False,True,False,False,False,
+19-98045,False,False,True,False,False,False,
+19-98048,False,False,False,False,False,False,Établissement public de coopération intercommunale
+19-98052,False,False,False,False,False,False,"Aménagement, gestion, promotion et animation de l'espace public"
+19-98054,False,False,True,False,False,False,
+19-98055,False,False,True,False,False,False,
+19-98060,False,False,False,False,True,False,
+19-98061,False,False,False,False,False,False,Centrale de référencement
+19-98063,False,False,False,False,True,False,
+19-98075,False,False,False,False,False,False,Université
+19-98077,False,False,False,False,True,False,
+19-98083,False,False,False,False,True,False,
+19-98089,False,False,False,False,False,False,Syndicat
+19-98098,False,False,True,False,False,False,
+19-98101,False,False,True,False,False,False,
+19-98103,False,False,True,False,False,False,
+19-98107,False,False,False,False,True,False,
+19-98108,False,False,True,False,False,False,
+19-98109,False,False,False,False,True,False,
+19-98110,False,False,False,False,True,False,
+19-98114,False,False,True,False,False,False,
+19-98118,False,False,True,False,False,False,
+19-98122,True,False,False,False,False,False,
+19-98125,False,False,False,False,False,False,ETABLISSEMENT PUBLIC DE SANT
+19-98129,False,False,True,False,False,False,
+19-98131,False,False,True,False,False,False,
+19-98136,False,False,False,False,False,False,chambre consulaire
+19-98142,False,False,False,False,False,False,autre
+19-98144,False,False,True,False,False,False,
+19-98145,False,False,False,False,True,False,
+19-98149,False,False,False,False,False,False,Société Publique Locale
+19-98151,False,False,True,False,False,False,
+19-98152,False,False,True,False,False,False,
+19-98153,False,False,True,False,False,False,
+19-98155,False,False,False,False,True,False,
+19-98156,False,False,False,False,False,False,SEM
+19-98157,False,False,False,False,False,False,Société d'Economie Mixte
+19-98158,False,False,True,False,False,False,
+19-98163,False,False,True,False,False,False,
+19-98165,False,False,False,True,False,False,
+19-98166,False,False,False,False,True,False,
+19-98167,False,False,True,False,False,False,
+19-98170,False,False,True,False,False,False,
+19-98174,False,False,True,False,False,False,
+19-98175,False,False,True,False,False,False,
+19-98176,False,False,True,False,False,False,
+19-98177,True,False,False,False,False,False,
+19-98187,False,False,True,False,False,False,
+19-98192,False,False,True,False,False,False,
+19-98196,False,False,True,False,False,False,
+19-98197,False,False,True,False,False,False,
+19-98200,False,False,False,False,False,False,Collectivité territoriale
+19-98204,False,False,False,False,False,False,centre hospitalier
+19-80331,False,False,False,False,False,False,Etablissement Publics de Coopération Intercommunale
+19-98208,False,False,False,False,True,False,
+19-98209,False,False,True,False,False,False,
+19-98217,True,False,False,False,False,False,
+19-98220,False,False,True,False,False,False,
+19-98223,False,False,False,False,True,False,
+19-98225,False,False,True,False,False,False,
+19-98227,False,False,False,False,False,False,autre
+19-98232,False,False,False,True,False,False,
+19-98237,False,False,True,False,False,False,
+19-98243,False,False,False,False,False,False,Société Publique Locale
+19-98245,True,False,False,False,False,False,
+19-98249,True,False,False,False,False,False,
+19-98251,False,False,True,False,False,False,
+19-98252,False,False,False,False,False,False,Entreprise Sociale pour l'Habitat
+19-98253,False,False,False,False,True,False,
+19-98255,True,False,False,False,False,False,
+19-98256,False,False,True,False,False,False,
+19-98258,False,False,True,False,False,False,
+19-98259,False,False,True,False,False,False,
+19-98265,False,False,False,False,False,False,Aeroportuaire
+19-98266,False,False,False,False,True,False,
+19-98267,False,False,False,False,False,False,Collectivité territoriale
+19-98268,False,False,True,False,False,False,
+19-93061,False,False,False,False,False,False,Etablissement public administratif
+19-98271,False,False,True,False,False,False,
+19-98272,False,False,False,False,True,False,
+19-98276,False,False,True,False,False,False,
+19-98277,False,False,True,False,False,False,
+19-98279,False,False,False,False,True,False,
+19-98280,True,False,False,False,False,False,
+19-98281,False,False,True,False,False,False,
+19-98282,False,False,True,False,False,False,
+19-98284,False,False,False,False,True,False,
+19-98286,False,False,False,False,False,False,Etablissement d'enseignement supérieur et de recherche
+19-98287,True,False,False,False,False,False,
+19-98296,False,False,False,False,True,False,
+19-98301,True,False,False,False,False,False,
+19-98306,False,False,False,False,False,False,EPCI
+19-98307,False,False,False,False,False,False,Assurance maladie
+19-98309,False,False,True,False,False,False,
+19-98320,False,False,True,False,False,False,
+19-98325,False,False,False,False,False,False,autre
+19-98327,False,False,True,False,False,False,
+19-98331,False,False,True,False,False,False,
+19-98336,False,False,False,False,True,False,
+19-98338,False,False,False,False,False,False,Ecole des métiers
+19-98340,True,False,False,False,False,False,
+19-98346,False,False,False,False,True,False,
+19-98348,False,False,False,False,True,False,
+19-98350,False,False,True,False,False,False,
+19-98355,True,False,False,False,False,False,
+19-98356,True,False,False,False,False,False,
+19-98363,False,False,True,False,False,False,
+19-98364,False,False,True,False,False,False,
+19-98370,False,False,True,False,False,False,
+19-98371,False,False,True,False,False,False,
+19-98373,False,False,False,False,False,False,Établissement public de santé
+19-98376,True,False,False,False,False,False,
+19-98377,False,False,False,False,True,False,
+19-98381,False,False,True,False,False,False,
+19-98382,False,False,False,False,True,False,
+19-98383,False,False,False,False,True,False,
+19-98389,False,False,False,False,False,False,Logement social
+19-98393,False,False,True,False,False,False,
+19-98395,True,False,False,False,False,False,
+19-98400,False,False,False,False,False,False,Université
+19-98401,False,False,False,False,True,False,
+19-98402,False,False,False,False,False,False,Association loi 1901 sous le haut patronage du Ministère en charge de la Santé.
+19-98403,False,False,False,False,False,False,SAEM
+19-98414,False,False,True,False,False,False,
+19-98416,False,False,True,False,False,False,
+19-98419,False,False,False,False,False,False,autre
+19-98421,False,False,True,False,False,False,
+19-98426,False,False,False,False,True,False,
+19-98429,False,False,False,False,True,False,
+19-98430,False,False,False,True,False,False,
+19-98434,False,False,False,False,True,False,
+19-98436,False,False,False,False,True,False,
+19-98441,False,False,True,False,False,False,
+19-98443,False,False,True,False,False,False,
+19-98445,False,False,False,False,True,False,
+19-98448,False,False,False,False,True,False,
+19-98452,False,False,True,False,False,False,
+19-98456,False,False,False,False,False,False,Société Publique Locale
+19-98460,False,False,True,False,False,False,
+19-98461,True,False,False,False,False,False,
+19-98463,False,False,True,False,False,False,
+19-98465,False,False,True,False,False,False,
+19-98468,False,False,False,False,True,False,
+19-98474,False,False,False,True,False,False,
+19-98476,False,False,True,False,False,False,
+19-98481,True,False,False,False,False,False,
+19-98488,False,False,True,False,False,False,
+19-98489,True,False,False,False,False,False,
+19-98490,True,False,False,False,False,False,
+19-98495,False,False,False,False,True,False,
+19-98496,False,False,True,False,False,False,
+19-98498,False,False,True,False,False,False,
+19-98503,False,False,False,False,True,False,
+19-98506,False,False,True,False,False,False,
+19-98508,False,False,False,False,True,False,
+19-98511,False,False,True,False,False,False,
+19-98514,False,False,True,False,False,False,
+19-98518,False,False,False,False,False,False,autre
+19-98521,False,False,True,False,False,False,
+19-98524,False,False,True,False,False,False,
+19-98527,False,False,False,False,False,False,autre
+19-98529,False,False,True,False,False,False,
+19-98530,False,False,False,False,False,False,Etablissement public de santé
+19-98532,True,False,False,False,False,False,
+19-98537,False,False,True,False,False,False,
+19-98541,False,False,False,False,False,False,ETABLISSEMENT DE SANTE
+19-98544,False,False,False,False,True,False,
+19-98548,False,False,False,False,True,False,
+19-98549,False,False,False,False,True,False,
+19-98557,False,False,True,False,False,False,
+19-98558,False,False,False,False,False,False,Établissement public départemental
+19-98559,False,False,True,False,False,False,
+19-98560,False,False,True,False,False,False,
+19-98565,False,False,True,False,False,False,
+19-98566,False,False,False,True,False,False,
+19-98568,False,False,False,False,True,False,
+19-98572,False,False,True,False,False,False,
+19-98582,False,False,False,False,True,False,
+19-98584,False,False,True,False,False,False,
+19-98595,False,False,True,False,False,False,
+19-98599,False,False,False,False,True,False,
+19-98607,False,False,False,False,True,False,
+19-98611,False,True,False,False,False,False,
+19-98616,False,False,False,False,False,False,"Aménagement, gestion, promotion, animation du territoire"
+19-98617,False,False,False,False,False,False,Etablissement public de santé
+19-98625,False,False,True,False,False,False,
+19-98628,False,False,True,False,False,False,
+19-98630,False,False,False,False,False,False,Etablissement public administratif
+19-98632,False,False,True,False,False,False,
+19-98633,False,False,False,False,False,False,Etablissement Public de Santé
+19-98634,False,False,True,False,False,False,
+19-98636,True,False,False,False,False,False,
+19-98639,False,False,True,False,False,False,
+19-98640,False,False,False,False,False,False,"Établissement Public à Caractère Scientifique, culturel et professionnel (EPSCP)"
+19-98641,False,False,False,False,False,False,Etablissement public de santé
+19-98642,False,False,True,False,False,False,
+19-98645,False,False,True,False,False,False,
+19-98648,True,False,False,False,False,False,
+19-98650,False,False,False,False,True,False,
+19-98651,False,False,True,False,False,False,
+19-98655,False,False,True,False,False,False,
+19-98665,False,False,False,False,True,False,
+19-98672,True,False,False,False,False,False,
+19-98675,True,False,False,False,False,False,
+19-98677,False,False,False,False,False,False,Etablissement public de sante
+19-98680,False,False,False,True,False,False,
+19-98681,True,False,False,False,False,False,
+19-98683,False,False,False,False,False,False,epci
+19-98685,False,False,False,False,False,False,CHU
+19-98690,False,False,False,False,False,False,Santé
+19-98691,False,False,False,False,False,False,Assurance Maladie
+19-98697,False,False,False,False,False,False,ESH
+19-98706,False,False,True,False,False,False,
+19-98709,False,False,False,False,True,False,
+19-98711,True,False,False,False,False,False,
+19-98714,False,False,False,False,False,False,autre
+19-98715,False,False,False,True,False,False,
+19-98716,False,False,False,False,True,False,
+19-98718,False,False,False,False,True,False,
+19-98722,False,False,True,False,False,False,
+19-98723,False,False,False,False,True,False,
+19-98727,False,False,True,False,False,False,
+19-98728,False,False,False,False,False,False,EPI
+19-98735,False,False,False,True,False,False,
+19-98736,False,False,True,False,False,False,
+19-98739,False,False,False,False,False,False,SPLA
+19-98740,False,False,True,False,False,False,
+19-98746,True,False,False,False,False,False,
+19-98752,False,False,False,False,True,False,
+19-98755,False,False,True,False,False,False,
+19-98762,False,False,False,False,False,False,Syndicat Mixte
+19-98764,False,False,False,False,False,False,Santé
+19-98766,False,False,False,False,False,False,Syndicat Mixte
+19-98768,False,False,False,False,True,False,
+19-98769,False,False,False,False,True,False,
+19-98771,True,False,False,False,False,False,
+19-98787,False,False,False,False,True,False,
+19-98788,False,False,False,False,True,False,
+19-98792,False,False,False,False,True,False,
+19-98799,False,False,True,False,False,False,
+19-98800,False,False,False,False,False,False,Société d'écononomie mixte locale
+19-98801,False,False,True,False,False,False,
+19-98806,False,False,False,False,False,False,autre
+19-98811,False,False,True,False,False,False,
+19-98812,False,False,True,False,False,False,
+19-98819,False,False,True,False,False,False,
+19-98829,False,False,True,False,False,False,
+19-98832,False,False,False,False,True,False,
+19-98834,False,False,True,False,False,False,
+19-98838,False,False,True,False,False,False,
+19-98840,False,False,False,False,False,False,EPCI
+19-98841,False,False,False,False,True,False,
+19-98842,False,False,False,False,False,False,Ville
+19-98844,False,False,False,True,False,False,
+19-98847,False,False,False,True,False,False,
+19-98848,False,False,False,False,False,False,CENTRE HOSPITALIER DE PERPIGNAN Etablissement support du GHT AUDE-PYRENEES
+19-98854,False,False,False,False,True,False,
+19-98856,True,False,False,False,False,False,
+19-98857,False,False,False,False,True,False,
+19-98859,False,False,True,False,False,False,
+19-98862,False,False,True,False,False,False,
+19-98865,False,False,False,False,False,False,Société Publique Locale
+19-98867,False,False,False,False,True,False,
+19-98869,False,False,False,False,True,False,
+19-98873,False,False,True,False,False,False,
+19-98874,False,False,False,False,False,False,EPSCP
+19-98875,False,False,False,False,True,False,
+19-98881,False,False,True,False,False,False,
+19-98883,True,False,False,False,False,False,
+19-98892,False,False,False,False,True,False,
+19-98897,False,False,False,True,False,False,
+19-98899,False,False,False,False,True,False,
+19-98900,False,False,True,False,False,False,
+19-98902,False,False,True,False,False,False,
+19-98904,False,False,False,False,True,False,
+19-98910,False,False,False,False,False,False,autre
+19-98912,False,False,False,False,True,False,
+19-98913,False,False,False,False,True,False,
+19-98914,False,False,True,False,False,False,
+19-98916,False,False,True,False,False,False,
+19-98917,False,False,False,False,True,False,
+19-98927,False,False,True,False,False,False,
+19-98932,False,False,True,False,False,False,
+19-98933,False,False,False,False,True,False,
+19-98935,False,False,False,False,False,False,Santé
+19-98936,False,False,True,False,False,False,
+19-98938,False,False,False,False,True,False,
+19-98941,False,False,True,False,False,False,
+19-98944,False,False,True,False,False,False,
+19-98946,False,False,False,False,False,False,autre
+19-98947,False,False,False,False,True,False,
+19-98948,False,False,True,False,False,False,
+19-98949,False,False,True,False,False,False,
+19-98951,False,False,True,False,False,False,
+19-98953,False,False,False,False,True,False,
+19-98957,False,False,False,False,True,False,
+19-98960,False,False,False,False,True,False,
+19-98961,False,False,True,False,False,False,
+19-98970,False,False,True,False,False,False,
+19-98974,False,False,True,False,False,False,
+19-98980,False,False,True,False,False,False,
+19-98983,False,False,False,False,False,False,EPCI
+19-98984,False,False,True,False,False,False,
+19-98987,False,False,True,False,False,False,
+19-98991,False,False,True,False,False,False,
+19-98999,False,False,True,False,False,False,
+19-99001,False,False,False,False,True,False,
+19-99002,False,False,True,False,False,False,
+19-99012,False,False,True,False,False,False,
+19-99014,False,False,False,False,True,False,
+19-99017,False,False,True,False,False,False,
+19-99019,True,False,False,False,False,False,
+19-99023,False,False,True,False,False,False,
+19-99024,False,False,False,False,True,False,
+19-99025,False,False,True,False,False,False,
+19-99028,True,False,False,False,False,False,
+19-99029,False,False,True,False,False,False,
+19-99030,True,False,False,False,False,False,
+19-99036,False,False,True,False,False,False,
+19-99041,True,False,False,False,False,False,
+19-99043,False,False,True,False,False,False,
+19-99063,False,False,False,False,True,False,
+19-99064,False,False,True,False,False,False,
+19-99066,True,False,False,False,False,False,
+19-99070,False,True,False,False,False,False,
+19-99071,False,False,True,False,False,False,
+19-99073,False,False,False,False,True,False,
+19-99076,False,False,False,False,False,False,Enseignement supérieur et recherche.
+19-99079,False,False,False,False,False,False,Syndicat mixte
+19-99082,False,False,False,True,False,False,
+19-99085,False,False,True,False,False,False,
+19-99087,False,False,True,False,False,False,
+19-99089,False,False,False,True,False,False,
+19-99091,False,False,False,False,True,False,
+19-99093,False,False,True,False,False,False,
+19-99099,False,False,False,True,False,False,
+19-99104,False,False,True,False,False,False,
+19-99110,False,False,False,False,False,False,EPI
+19-99120,False,False,False,False,True,False,
+19-99123,False,False,False,False,False,False,Parlement
+19-99126,False,False,True,False,False,False,
+19-99129,False,False,False,False,True,False,
+19-99132,True,False,False,False,False,False,
+19-99133,False,False,False,True,False,False,
+19-99135,False,False,False,False,True,False,
+19-99137,False,False,False,False,True,False,
+19-99138,False,False,False,False,True,False,
+19-99139,False,False,False,False,True,False,
+19-99141,False,False,True,False,False,False,
+19-99143,False,False,True,False,False,False,
+19-99146,False,False,False,False,True,False,
+19-99148,False,False,True,False,False,False,
+19-99150,False,False,False,False,True,False,
+19-99157,False,False,True,False,False,False,
+19-99159,False,False,True,False,False,False,
+19-99165,False,False,True,False,False,False,
+19-99167,False,False,False,False,True,False,
+19-99168,True,False,False,False,False,False,
+19-99169,False,False,False,False,False,False,Santé
+19-99170,False,False,True,False,False,False,
+19-99171,False,False,False,False,True,False,
+19-99174,False,False,False,False,True,False,
+19-99175,False,False,True,False,False,False,
+19-99176,False,False,True,False,False,False,
+19-99179,False,False,False,False,False,False,Etablissement Public National (EPN)
+19-99180,False,False,True,False,False,False,
+19-99182,False,False,True,False,False,False,
+19-99184,False,False,True,False,False,False,
+19-99185,False,False,True,False,False,False,
+19-99186,False,False,False,False,True,False,
+19-99187,False,False,False,False,False,False,Université
+19-99188,True,False,False,False,False,False,
+19-99189,False,False,True,False,False,False,
+19-99192,False,False,False,False,True,False,
+19-99195,False,False,True,False,False,False,
+19-99198,False,False,False,False,False,False,autre
+19-99212,False,False,False,False,True,False,
+19-99216,False,False,True,False,False,False,
+19-99219,False,False,True,False,False,False,
+19-99223,False,False,True,False,False,False,
+19-99227,False,False,False,False,True,False,
+19-99229,True,False,False,False,False,False,
+19-99232,True,False,False,False,False,False,
+19-99235,False,False,False,False,False,False,Société Anonyme d''économie mixte de gestion et de construction immobilière
+19-99238,False,False,True,False,False,False,
+19-99239,False,False,True,False,False,False,
+19-99242,False,False,False,False,True,False,
+19-99246,False,False,False,False,True,False,
+19-99248,False,False,False,False,False,False,Institution consulaire
+19-99250,False,False,False,False,True,False,
+19-99252,False,False,False,False,False,False,Établissement public de santé
+19-99253,False,False,False,False,True,False,
+19-99255,True,False,False,False,False,False,
+19-99259,False,False,False,False,False,False,Commune
+19-99261,False,False,False,False,True,False,
+19-99262,False,False,False,False,True,False,
+19-99263,False,False,True,False,False,False,
+19-99265,False,False,True,False,False,False,
+19-99267,False,False,True,False,False,False,
+19-99275,False,False,True,False,False,False,
+19-99278,False,False,True,False,False,False,
+19-99279,False,False,True,False,False,False,
+19-99285,False,False,False,False,True,False,
+19-99289,False,False,True,False,False,False,
+19-99294,False,False,False,False,True,False,
+19-99296,False,False,False,False,False,False,autre
+19-99299,False,False,True,False,False,False,
+19-99303,False,False,False,False,True,False,
+19-99309,False,False,False,False,True,False,
+19-99310,False,False,False,False,False,False,Protection sociale
+19-99313,False,False,True,False,False,False,
+19-99316,False,False,False,False,True,False,
+19-99317,False,False,True,False,False,False,
+19-99318,False,False,False,False,False,False,Etablissement Public de Coopération Intercommunale
+19-99319,False,False,False,False,False,False,Etablissement public de coopération intercommunale
+19-99321,False,False,False,False,False,False,EPCC
+19-99322,False,False,False,False,True,False,
+19-99327,False,False,False,False,True,False,
+19-99337,False,False,False,False,True,False,
+19-99339,False,False,False,False,False,False,autre
+19-99348,False,False,False,False,True,False,
+19-99349,True,False,False,False,False,False,
+19-99350,False,False,False,False,False,False,GROUPEMENT DE DEUX EPCI
+19-99353,False,False,False,False,True,False,
+19-99355,True,False,False,False,False,False,
+19-99358,False,False,False,False,True,False,
+19-99359,False,False,False,False,True,False,
+19-99365,False,False,True,False,False,False,
+19-99366,False,False,True,False,False,False,
+19-99375,False,False,True,False,False,False,
+19-99376,False,False,True,False,False,False,
+19-99386,False,False,True,False,False,False,
+19-99388,False,False,False,False,True,False,
+19-99389,False,False,False,False,False,False,association Loi 1901
+19-99396,True,False,False,False,False,False,
+19-99400,False,False,True,False,False,False,
+19-99402,False,False,False,False,True,False,
+19-99408,False,False,True,False,False,False,
+19-99409,False,False,True,False,False,False,
+19-99410,True,False,False,False,False,False,
+19-99414,False,False,True,False,False,False,
+19-99415,False,False,True,False,False,False,
+19-99417,False,False,False,False,True,False,
+19-99422,False,False,True,False,False,False,
+19-99423,False,False,True,False,False,False,
+19-99430,False,False,True,False,False,False,
+19-99431,False,False,False,False,False,False,Etablissement public de santé
+19-99434,True,False,False,False,False,False,
+19-99436,True,False,False,False,False,False,
+19-99437,False,False,True,False,False,False,
+19-99444,False,False,False,False,False,False,Protection sociale
+19-99445,False,False,True,False,False,False,
+19-99455,True,False,False,False,False,False,
+19-99478,False,False,False,True,False,False,
+19-99491,False,False,True,False,False,False,
+19-99500,False,True,False,False,False,False,
+19-99506,False,False,False,False,False,False,Logement et équipements collectifs
+19-99515,False,False,False,False,True,False,
+19-99522,False,False,False,False,True,False,
+19-99528,False,False,True,False,False,False,
+19-65822,True,False,False,False,False,False,
+19-99532,False,False,False,False,True,False,
+19-99533,False,False,False,False,True,False,
+19-99535,False,False,True,False,False,False,
+19-99542,False,False,False,False,True,False,
+19-99546,False,False,True,False,False,False,
+19-75923,True,False,False,False,False,False,
+19-99551,False,False,True,False,False,False,
+19-99568,True,False,False,False,False,False,
+19-99570,False,False,True,False,False,False,
+19-99571,False,False,False,False,False,False,Centre Hospitalier
+19-99572,False,False,True,False,False,False,
+19-99576,False,False,True,False,False,False,
+19-99589,False,False,False,False,False,False,Commune
+19-99603,True,False,False,False,False,False,
+19-99610,False,False,False,False,True,False,
+19-99613,False,False,False,False,False,False,commune
+19-99624,False,False,False,False,False,False,Santé
+19-99628,False,False,False,False,True,False,
+19-99633,False,False,True,False,False,False,
+19-99634,False,False,True,False,False,False,
+19-99648,False,False,True,False,False,False,
+19-99650,False,False,False,False,True,False,
+19-99651,True,False,False,False,False,False,
+19-99659,False,False,False,False,True,False,
+19-99661,False,False,True,False,False,False,
+19-99662,False,False,False,False,True,False,
+19-99664,False,False,False,False,True,False,
+19-99666,False,False,True,False,False,False,
+19-99673,False,False,True,False,False,False,
+19-99676,False,False,False,False,False,False,Centre Hospitalier
+19-99679,False,False,False,False,True,False,
